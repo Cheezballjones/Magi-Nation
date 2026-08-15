@@ -1,5 +1,4 @@
-card_database = [[
-    [
+card_database = [
     {
         "cost": 4,
         "effects": [
@@ -28800,4 +28799,3 @@ card_database = [[
         "type": "Creature"
     }
 ]
-]]
