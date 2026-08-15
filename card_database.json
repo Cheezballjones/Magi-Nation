@@ -1,4 +1,4 @@
-card_database = [
+[
     {
         "cost": 4,
         "effects": [
