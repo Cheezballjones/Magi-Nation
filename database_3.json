@@ -23638,7 +23638,7 @@
     {
         "cost": 15,
         "energize": 6,
-        "image": "/cardimages/TR/tdek_naro.jpg",
+        "image": "/cardimages/TR/tdek.jpg",
         "key": 461,
         "name": "T'Dek",
         "normalized_name": "TDek",
@@ -27327,7 +27327,7 @@
                 "text": "If Weave-woven Anklet is discarded from play by an opposing Spell or Power, choose one Weave Spell in your discard pile and add it to your hand.\n"
             }
         ],
-        "image": "/cardimages/TR/weave-woven_anklet_weav.jpg",
+        "image": "/cardimages/TR/Weave-woven_Anklet.jpg",
         "key": 516,
         "name": "Weave-woven Anklet",
         "normalized_name": "Weave-woven_Anklet",
