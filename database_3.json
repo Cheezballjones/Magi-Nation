@@ -108,6 +108,29 @@
         "type": "Spell"
     },
     {
+    "artist": "Clurman, Goodman",
+    "cost": 14,
+    "energize": 5,
+    "subtype": "Apprentice Lorekeeper",
+    "starting": ["Furok", "Vortex of Knowledge", "Book of Ages", "Book of Life"],
+    "effects": [{
+        "name": "Research",
+        "text": "Once per turn when a Spell, Power, or Effect causes an opponent to draw a card outside of their Draw Step, look at the top card of your deck. You may discard this card or put it back on top of your deck. Draw a card. Then, if that opponent has more cards than you do, repeat this process once."
+    }, {
+        "name": "Rememberance",
+        "text": "After Artimillies is defeated, add two energy to each of your Magi after they are revealed. If they are a Keeper add an additional energy."
+    }],
+
+    "image": "/cardimages/AW/Abwyns_Quill.jpg",    
+    "key": 1934,
+    "name": "Artimillies",
+    "normalized_name": "Artimillies",
+    "rarity": "P",
+    "regions": ["Naroom"],
+    "set": "PR",
+    "type": "Magi"
+    },
+    {
 
         "cost": 0,
         "effects": [
