@@ -12510,7 +12510,7 @@
                 "text": "Whenever K'ly attacks a stalked Creature, add one energy to K'ly before energy is removed.\n"
             }
         ],
-        "image": "/cardimages/ND/Kly_para.jpg",
+        "image": "/cardimages/ND/Kly_PA.jpg",
         "key": 1040,
         "name": "K'ly",
         "normalized_name": "Kly",
@@ -12530,7 +12530,7 @@
                 "text": "As you play K'teeb, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn.\n"
             }
         ],
-        "image": "/cardimages/ND/kteeb_naro.jpg",
+        "image": "/cardimages/ND/kteeb_NM.jpg",
         "key": 1001,
         "name": "K'teeb",
         "normalized_name": "Kteeb",
@@ -12556,7 +12556,7 @@
                 "text": "As you play K'teeb, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn.\n"
             }
         ],
-        "image": "/cardimages/ND/Kteeb_para.jpg",
+        "image": "/cardimages/ND/Kteeb_PA.jpg",
         "key": 1041,
         "name": "K'teeb",
         "normalized_name": "Kteeb",
