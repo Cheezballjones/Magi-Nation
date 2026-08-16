@@ -31933,5 +31933,3093 @@
     "regions": ["Weave"],
     "set": "TR1",
     "type": "Relic"
+    },
+    {
+    "cost": 4,
+    "image": "/TR2/agovo_unde.jpg",
+    "key": 1527,
+    "name": "Agovo",
+    "normalized_name": "Agovo",
+    "powers": [
+        {
+            "cost": 2,
+            "name": "Lore",
+            "text": "Draw one card."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 0,
+    "image": "/TR2/agrams_plaything_core.jpg",
+    "key": 1492,
+    "name": "Agram's Plaything",
+    "normalized_name": "Agrams_Plaything",
+    "powers": [
+        {
+            "name": "Puppet Strings",
+            "text": "Until the end of your turn, Agram's Plaything changes to a Creature. Add one energy to Agram's Plaything whenever it becomes a Creature. If your Magi is Agram, add two additional energy to it. Whenever Agram's Plaything becomes a Relic, discard all energy from it."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting_magi": "Agram",
+    "type": "Relic"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": "Mastery",
+            "text": "Your Shadow Magi may play cards from their original region, ignoring regional penalties and restrictions."
+        },
+        {
+            "name": "Control",
+            "text": "If your Magi is Agram, you may play any cards that specifically say that they can be played by a Shadow Magi. Agram does not pay a regional penalty for non-Core cards."
+        }
+    ],
+    "image": "/TR2/agrams_staff_core.jpg",
+    "key": 1493,
+    "name": "Agram's Staff",
+    "normalized_name": "Agrams_Staff",
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Shifty",
+            "text": "Ainjer loses no energy from opposing Effects."
+        }
+    ],
+    "image": "/TR2/ainjer_bogr.jpg",
+    "key": 1457,
+    "name": "Ainjer",
+    "normalized_name": "Ainjer",
+    "powers": [
+        {
+            "name": "Grr",
+            "text": "Discard Ainjer from play. Choose any one Creature in play. Discard one energy from the chosen Creature for each of your Bograth Creatures in play. Opposing cards do not affect Grr when it is used and cannot alter the amount of energy discarded by Grr. Use this Power only before your Attack Step."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/ainjer_swarm_bogr.jpg",
+    "key": 1458,
+    "name": "Ainjer Swarm",
+    "normalized_name": "Ainjer_Swarm",
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "text": "If you have at least four Bograth Creatures in play, all opposing Creatures in play lose one energy.",
+    "type": "Spell"
+    },
+{
+    "alternate": "Korg",
+    "cost": 24,
+    "effects": [
+        {
+            "name": "Super Clever",
+            "text": "Korg cannot play Relics."
+        },
+        {
+            "name": "Super Brave",
+            "text": "Whenever Korg has no energy, he is defeated, even if he has Creatures in play."
+        }
+    ],
+    "energize": 6,
+    "image": "/TR2/all_high_king_korg_core.jpg",
+    "key": 1990,
+    "name": "All-High King Korg",
+    "normalized_name": "All-High_King_Korg",
+    "rarity": "R",
+    "regions": ["Core", "Bograth"],
+    "set": "TR2",
+    "starting": ["Pyder", "Gwaeg", "Turn"],
+    "sub type": "Celebrated Emperor of Great and Mighty Bograth",
+    "text": "Korg can only play Core, Bograth, and Universal cards.",
+    "type": "Magi"
+    },
+{
+    "cost": 0,
+    "image": "/TR2/amulet_of_ombor_unde.jpg",
+    "key": 1528,
+    "name": "Amulet of Ombor",
+    "normalized_name": "Amulet_of_Ombor",
+    "powers": [
+        {
+            "name": "Energy Boost",
+            "text": "Roll one die.\n1, 2, or 3 = Your opponents add one energy\nto each of their Creatures in play.\n4 or 5 = Choose any one Creature in play.\nAdd two energy to the chosen Creature.\n6 = Choose any one Creature in play.\nAdd four energy to the chosen Creature."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/ancients_puzzlebox_univ.jpg",
+    "key": 2034,
+    "name": "Ancient's Puzzlebox",
+    "normalized_name": "Ancients_Puzzlebox",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Mind Games",
+            "text": "Discard Ancient's Puzzlebox from play. Reveal any number of cards in your hand and choose a Creature. Add one energy to it for each Ancient's Puzzlebox you reveal. Draw a card. You may not play another Ancient's Puzzlebox this turn."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Universal"],
+    "set": "TR2",
+    "sub type": "Eliwan Artifact",
+    "text": "Your deck may contain up to six copies of Ancient Puzzlebox.",
+    "type": "Relic"
+    },
+{
+    "cost": 13,
+    "effects": [
+        {
+            "name": "Weave Twist",
+            "text": "All cards that specifically reference Core instead reference their own region. If a card is of multiple regions, you choose which of those regions to reference."
+        }
+    ],
+    "energize": 6,
+    "image": "/TR2/ashio_core.jpg",
+    "key": 1494,
+    "name": "Ashio",
+    "normalized_name": "Ashio",
+    "original_region": "Weave",
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": ["Drush", "Flugg", "Binding"],
+    "sub type": "Weave Shadow",
+    "type": "Magi"
+    },
+{
+    "cost": 12,
+    "effects": [
+        {
+            "name": "Hordes",
+            "text": "Whenever you play a Bograth Creature, you may discard one energy from Baa to draw an additional card at the end of the turn."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/baa_bogr.jpg",
+    "key": 1459,
+    "name": "Baa",
+    "normalized_name": "Baa",
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "starting": ["Bolobog", "Slarnath", "Green Stuff"],
+    "sub type": "Grand High Summoner",
+    "type": "Magi"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Regenerate",
+            "text": "At the beginning of your turn, if your Magi is Bograth, you may play one copy of Black Stuff from your discard pile, paying all costs."
+        }
+    ],
+    "image": "/TR2/black_stuff_bogr.jpg",
+    "key": 2035,
+    "name": "Black Stuff",
+    "normalized_name": "Black_Stuff",
+    "rarity": "R",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Bleph Fu",
+            "text": "Whenever Bleph attacks a Creature, before energy is removed, add one energy to Bleph for each of the defending player's Creatures."
+        }
+    ],
+    "image": "/TR2/bleph_bogr.jpg",
+    "key": 1460,
+    "name": "Bleph",
+    "normalized_name": "Bleph",
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 13,
+    "energize": 5,
+    "image": "/TR2/blygt_bogr.jpg",
+    "key": 1983,
+    "name": "Blygt",
+    "normalized_name": "Blygt",
+    "powers": [
+        {
+            "cost": 3,
+            "name": "Waking Dreams",
+            "text": "Choose up to three different Bograth Creatures in your discard pile and play each of them with one energy instead of its normal starting energy. An opposing player immediately discards any one of those Creatures from play. Those Creatures cannot attack this turn."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "starting": ["Moob", "Moss Quido", "Swamp Weebo"],
+    "sub type": "Magnificent Remembering Guy",
+    "type": "Magi"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/bog_stench_bogr.jpg",
+    "key": 1989,
+    "name": "Bog Stench",
+    "normalized_name": "Bog_Stench",
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "text": "Until the end of your next turn, you are considered to have two additional Bograth Creatures in play for all of your Spells, Powers, and Effects.",
+    "type": "Spell"
+    },
+{
+    "cost": 3,
+    "effects": [
+        {
+            "name": "Dream Draft",
+            "text": "Whenever an opponent plays a Relic, if your Magi is Bograth or Orothe, you may immediately play Bog Wellisk from your hand, ignoring all costs. You may play one Bog Wellisk in this way per turn."
+        }
+    ],
+    "image": "/TR2/bog_wellisk_bogr.jpg",
+    "key": 1461,
+    "name": "Bog Wellisk",
+    "normalized_name": "Bog_Wellisk",
+    "rarity": "R",
+    "regions": ["Bograth", "Orothe"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 0,
+    "image": "/TR2/book_of_ages_univ.jpg",
+    "key": 1565,
+    "name": "Book of Ages",
+    "normalized_name": "Book_of_Ages",
+    "powers": [
+        {
+            "cost": 2,
+            "name": "Lore",
+            "text": "Draw one card."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Universal"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "alternate": "Brog",
+    "cost": 14,
+    "energize": 4,
+    "image": "/TR2/brog_swamp_thug_bogr.jpg",
+    "key": 2036,
+    "name": "Brog, Swamp Thug",
+    "normalized_name": "Brog_Swamp_Thug",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Intimidation",
+            "text": "Discard one of your Creatures from play. Choose an opposing Creature and move half of its energy, rounded up, to Brog, Swamp Thug."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "starting": ["Black Stuff", "Green Stuff", "Rot Arboll"],
+    "type": "Magi"
+    },
+{
+    "cost": 15,
+    "effects": [
+        {
+            "name": "Shiftier",
+            "text": "Your Creatures lose no energy from opposing Effects."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/bulomp_bogr.jpg",
+    "key": 2037,
+    "name": "Bulomp",
+    "normalized_name": "Bulomp",
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "starting": ["Ooze Arboll", "Mirago", "Frenzy"],
+    "type": "Magi"
+    },
+{
+    "cost": 3,
+    "effects": [
+        {
+            "name": "Defense",
+            "text": "If Cave Rudwot is attacked, add two energy to it before energy is removed."
+        }
+    ],
+    "image": "/TR2/cave_rudwot_unde.jpg",
+    "key": 1529,
+    "name": "Cave Rudwot",
+    "normalized_name": "Cave_Rudwot",
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "alternate": "Gogor",
+    "cost": 10,
+    "energize": 7,
+    "image": "/TR2/celebrated_hero_unde.jpg",
+    "key": 1530,
+    "name": "Celebrated Hero",
+    "normalized_name": "Celebrated_Hero",
+    "powers": [
+        {
+            "name": "Pump You Up",
+            "text": "Choose a Burrowed Creature or a Creature with the Effect \"Invulnerability\". Restore the chosen Creature to its starting energy. Skip your Draw step this turn."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Underneath", "Kybar's Teeth"],
+    "set": "TR2",
+    "starting": ["Cave Rudwot", "Ghost Bwisp", "Gogor's Spade"],
+    "type": "Magi"
+    },
+{
+    "alt_play": "Weave",
+    "cost": 6,
+    "effects": [
+        {
+            "name": "Resistance",
+            "text": "Core and Weave Spells and Powers do not affect Chaos Flugg."
+        }
+    ],
+    "image": "/TR2/chaos_flugg_core.jpg",
+    "key": 1495,
+    "name": "Chaos Flugg",
+    "normalized_name": "Chaos_Flugg",
+    "powers": [
+        {
+            "name": "Dark Demanding",
+            "text": "Discard Chaos Flugg from play. Discard all Core and all Weave Creatures from play."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting_magi": "Ashio",
+    "text": "Weave Magi can play Chaos Flugg.",
+    "type": "Creature"
+    },
+{
+    "alt_play": "Naroom",
+    "alternate": "Plith",
+    "cost": 5,
+    "effects": [
+        {
+            "name": "Guile",
+            "text": "Whenever Chaos Plith defeats a Creature in an attack, draw a card. If Evu is your Magi, draw an additional card."
+        }
+    ],
+    "image": "/TR2/chaos_plith_core.jpg",
+    "key": 1992,
+    "name": "Chaos Plith",
+    "normalized_name": "Chaos_Plith",
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Naroom Magi may play Chaos Plith.",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/cleansing_unde.jpg",
+    "key": 1531,
+    "name": "Cleansing",
+    "normalized_name": "Cleansing",
+    "rarity": "C",
+    "regions": ["Underneath", "Kybar's Teeth"],
+    "set": "TR2",
+    "starting_magi": ["Kazm", "Ulk", "Grej"],
+    "text": "Name any one non-Magi Core cards. For the rest of this game, all cards of the name are Kybar's Teeth or Underneath, your choice, instead of Core.",
+    "type": "Spell"
+    },
+{
+    "alt_play": "Orothe",
+    "cost": 5,
+    "effects": [
+        {
+            "name": "Betrayal",
+            "text": "Whenever you gain control of an opposing card, choose any one Core or Orothe card in your discard pile and place it into your hand."
+        }
+    ],
+    "image": "/TR2/corathan_core.jpg",
+    "key": 1993,
+    "name": "Corathan",
+    "normalized_name": "Corathan",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Orothe Magi can play Corathan.",
+    "type": "Creature"
+    },
+{
+    "cost": 4,
+    "image": "/TR2/corrupt_core.jpg",
+    "key": 1496,
+    "name": "Corrupt",
+    "normalized_name": "Corrupt",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Choose any one Magi in play. Attack Corrupt to the chosen Magi. If the chosen Magi is discarded from play, discard Corrupt from play. When a Creature is played by any Magi, discard Corrupt from play. The Creature played becomes a Core Creature instead of its original region, and your Magi gains control of that Creature.",
+    "type": "Spell"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/creeping_ainjer_bogr.jpg",
+    "key": 2038,
+    "name": "Creeping Ainjer",
+    "normalized_name": "Creeping_Ainjer",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Skulk",
+            "text": "Choose an opposing Bograth Creature. Remove one energy from it and add three energy to your Magi."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "text": "Creeping Ainjer's text cannot be altered.\nCore Magi can play Creeping Ainjer.",
+    "type": "Creature"
+    },
+{
+    "cost": 0,
+    "effects": [
+        {
+            "name": "Mostly Regal Presence",
+            "text": "All non-Core, non-Bograth Creatures in play lose one energy, before energy is removed, whenever they attack one of your Bograth Creatures."
+        }
+    ],
+    "image": "/TR2/crown_of_grath_bogr.jpg",
+    "key": 1462,
+    "name": "Crown of Grath",
+    "normalized_name": "Crown_of_Grath",
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 4,
+    "image": "/TR2/crushing_darkness_core.jpg",
+    "key": 1497,
+    "name": "Crushing Darkness",
+    "normalized_name": "Crushing_Darkness",
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Choose any one Creature in play. Discard four energy from the chosen Creature. If this discards the cosen Creature from play, play it as a Core Creature with half of its starting energy, rounded up, ignoring all costs. That Creature cannot attack or use any of its Powers this turn. Shadow Magi cannot play this Spell.",
+    "type": "Spell"
+    },
+{
+    "cost": 4,
+    "image": "/TR2/crushing_will_univ.jpg",
+    "key": 2039,
+    "name": "Crushing Will",
+    "normalized_name": "Crushing_Will",
+    "rarity": "U",
+    "regions": ["Universal"],
+    "set": "TR2",
+    "text": "Choose a Creature and remove four energy from it. If this discards the Creature from play, choose up to two non-Universal Relics and discard them from play.  Only Universal and Universal Shadow Magi can play Crushing Will.",
+    "type": "Spell"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/crystal_arboll_unde.jpg",
+    "key": 1533,
+    "name": "Crystal Arboll",
+    "normalized_name": "Crystal_Arboll",
+    "powers": [
+        {
+            "name": "Healing Light",
+            "text": "Choose any one Creature in play. Discard Crystal Arboll from play. Add two energy to the chosen Creature. If the chosen Creature is Underneath, add two additional energy."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Renew",
+            "text": "After a Crystal Creature is discarded from play on an opposing turn, draw a card."
+        }
+    ],
+    "image": "/TR2/crystal_goblet_unde.jpg",
+    "key": 2040,
+    "name": "Crystal Goblet",
+    "normalized_name": "Crystal_Goblet",
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 6,
+    "effects": [
+        {
+            "name": "Ricochet",
+            "text": "Once per turn, as Crystal Hyren is attacked, remove one energy from each opposing Creature."
+        }
+    ],
+    "image": "/TR2/crystal_hyren_unde.jpg",
+    "key": 2041,
+    "name": "Crystal Hyren",
+    "normalized_name": "Crystal_Hyren",
+    "powers": [
+        {
+            "cost": 2,
+            "name": "Illuminate",
+            "text": "Choose a Spell in play and discard it."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 7,
+    "effects": [
+        {
+            "name": "Anti-Magic",
+            "text": "Crystal Parmalag is not affected by opposing Spells, Powers, or Effects that specifically discard Creatures from play. Your Spells, Powers, and Effects may not prevent Crystal Parmalag from losing energy."
+        }
+    ],
+    "image": "/TR2/crystal_parmalag_unde.jpg",
+    "key": 1534,
+    "name": "Crystal Parmalag",
+    "normalized_name": "Crystal_Parmalag",
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 4,
+    "effects": [
+        {
+            "name": "Regenerate",
+            "text": "At the end of each opponent's turn, if Crystal Saris was not attacked, add two energy to it."
+        }
+    ],
+    "image": "/TR2/crystal_saris_unde.jpg",
+    "key": 2042,
+    "name": "Crystal Saris",
+    "normalized_name": "Crystal_Saris",
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/crystal_shield_unde.jpg",
+    "key": 2043,
+    "name": "Crystal Shield",
+    "normalized_name": "Crystal_Shield",
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "text": "Choose one of your Creatures and attach Crystal Shield to it. While Crystal Shield is attached, the Creature gains Effect - Deflect: Once per turn, as an opposing Spell or Power chooses this Creature, you may choose another Creature that could have been chosen by that Spell or Power. The Spell or Power chooses that Creature instead. Discard Crystal Shield from play.",
+    "type": "Spell"
+    },
+{
+    "cost": 3,
+    "effects": [
+        {
+            "name": "Dream Charge",
+            "text": "At the end of each opponent's turn, if Crystal Twinklet was not attacked, draw a card."
+        },
+        {
+            "name": "Deflect",
+            "text": "Once per turn, as an opposing Spell or Power chooses Crystal Twinklet, you may choose another Creature that could have been chosen by that Spell or Power. The Spell or Power chooses that Creature instead."
+        }
+    ],
+    "image": "/TR2/crystal_twinklet_unde.jpg",
+    "key": 2044,
+    "name": "Crystal Twinklet",
+    "normalized_name": "Crystal_Twinklet",
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "alt_play": "Naroom",
+    "cost": 5,
+    "effects": [
+        {
+            "name": "Dream Inversion",
+            "text": "Opposing Spells, Powers, and other Effects that discard energy from Dagok instead add an equal amount of energy. Opposing Spells, Powers, and other Effects that add energy to Dagok instead discard an equal amount of energy."
+        }
+    ],
+    "image": "/TR2/dagok_core.jpg",
+    "key": 1498,
+    "name": "Dagok",
+    "normalized_name": "Dagok",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Naroom Magi can play Dagok. Naroom Shadow Magi can play Dagok for one less energy.",
+    "type": "Creature"
+    },
+{
+    "alt_play": "Arderial",
+    "cost": 3,
+    "image": "/TR2/dark_ayebaw_core.jpg",
+    "key": 1499,
+    "name": "Dark Ayebaw",
+    "normalized_name": "Dark_Ayebaw",
+    "powers": [
+        {
+            "name": "Implode",
+            "text": "Choose any one Creature or Magi in play. Discard Dark Ayebaw from play, and discard X Core and/or Arderial cards from your hand. Discard X+2 energy from the chosen Creature or Magi."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Arderial Magi may play Dark Ayebaw.",
+    "type": "Creature"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/dark_portents_core.jpg",
+    "key": 1500,
+    "name": "Dark Portents",
+    "normalized_name": "Dark_Portents",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Choose a player. Reveal the top five cards of the chosen player's deck. Add one energy to your Magi for each Creature revealed. You may discard one of the revealed cards. Put the remaining cards back on the chosen player's deck in the same order.",
+    "type": "Spell"
+    },
+{
+    "cost": 4,
+    "image": "/TR2/dark_vellup_core.jpg",
+    "key": 2045,
+    "name": "Dark Vellup",
+    "normalized_name": "Dark_Vellup",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Purge",
+            "text": "Discard a card from your hand and draw a card. If a copy of the card you discarded is in play, draw an extra card."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Arderial Magi may play Dark Vellup.",
+    "type": "Creature"
+    },
+{
+    "cost": 11,
+    "image": "/TR2/darkbreed_hyren_core.jpg",
+    "key": 1501,
+    "name": "Darkbreed Hyren",
+    "normalized_name": "Darkbreed_Hyren",
+    "powers": [
+        {
+            "cost": 6,
+            "name": "Subvert",
+            "text": "Choose any one hyren in play. Gain control of the chosen hyren. That hyren may not attack this turn."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 0,
+    "effects": [
+        {
+            "name": "Tunneling Attack",
+            "text": "Your burrowed Creatures may attack as normal."
+        }
+    ],
+    "image": "/TR2/digging_goggles_unde.jpg",
+    "key": 1535,
+    "name": "Digging Goggles",
+    "normalized_name": "Digging_Goggles",
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "alt_play": "Arderial",
+    "cost": 5,
+    "image": "/TR2/dream_rift_core.jpg",
+    "key": 1502,
+    "name": "Dream Rift",
+    "normalized_name": "Dream_Rift",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Take all Creature cards from your discard pile and shuffle them into your decK. Draw three cards. Arderial Magi may play Dream Rift.",
+    "type": "Spell"
+    },
+{
+    "alt_play": "Cald",
+    "cost": 5,
+    "effects": [
+        {
+            "name": "Condemn",
+            "text": "At the beginning of each of your opponent's turns, you may choose any one Creature in play. Until the end of that opponent's turn, each time the chosen Creature loses energy from Powers, Spells, or attacks, it loses three additional energy."
+        }
+    ],
+    "image": "/TR2/dryte_fiend_core.jpg",
+    "key": 1503,
+    "name": "Dryte Fiend",
+    "normalized_name": "Dryte_Fiend",
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Cald Magi may play Dryte Fiend.",
+    "type": "Creature"
+    },
+{
+    "cost": 0,
+    "effects": [
+        {
+            "name": "Grim Reflection",
+            "text": "At the beginning of each player's Draw step, if that player has more cards in his or her hand than any other player, that player draws one less card this turn. While Ebony Mirror is in play, all players draw at least one card during their Draw step."
+        }
+    ],
+    "image": "/TR2/ebony_mirror_core.jpg",
+    "key": 1504,
+    "name": "Ebony Mirror",
+    "normalized_name": "Ebony_Mirror",
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 10,
+    "effects": [
+        {
+            "name": "Sabotage",
+            "text": "When Emaal is defeated, discard all energy from all opposing Magi and draw a card."
+        }
+    ],
+    "energize": 7,
+    "image": "/TR2/emaal_unde.jpg",
+    "key": 1996,
+    "name": "Emaal",
+    "normalized_name": "Emaal",
+    "rarity": "P",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "starting": ["Parmalag", "Gloves of Crystal", "Impact"],
+    "sub type": "Saboteur",
+    "type": "Magi"
+    },
+{
+    "cost": 13,
+    "effects": [
+        {
+            "name": "Imaginary Friends",
+            "text": "You are considered to have three additional Bograth Creatures in play for all of your Spells, Powers and Effects."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/emlob_bogr.jpg",
+    "key": 1984,
+    "name": "Emlob",
+    "normalized_name": "Emlob",
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "starting": ["Mist Hyren", "Quido Swarm", "Tar Hyren"],
+    "sub type": "Obsessive Detailer",
+    "type": "Magi"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/entrench_unde.jpg",
+    "key": 2046,
+    "name": "Entrench",
+    "normalized_name": "Entrench",
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "text": "Choose a Creature and attach Entrench to it. While Entrench is attached, the Creature gains \"Effect - Entrenched: As this Creature is attacked, add two energy to it. This Creature may not attack.\" A Creature may not have more than one Entrench attached.",
+    "type": "Spell"
+    },
+{
+    "cost": 15,
+    "effects": [
+        {
+            "name": "Discordia",
+            "text": "Once per turn, when an opposing Magi plays a non-Universal Creature not of their Magi's region, you may choose and discard one of that Magi's Creatures from play."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/eryss_bogr.jpg",
+    "key": 1463,
+    "name": "Eryss",
+    "normalized_name": "Eryss",
+    "rarity": "U",
+    "regions": ["Bograth", "Paradwyn"],
+    "set": "TR2",
+    "starting": ["Fog Hyren", "Gremble", "N'kala", "Poison Baloo Root"],
+    "sub type": "The Insane",
+    "type": "Magi"
+    },
+{
+    "alternate": "Evu",
+    "cost": 15,
+    "effects": [
+        {
+            "name": "Devour",
+            "text": "Whenever an opposing Creature is discarded from play or reduced to zero energy by one of your cards, draw a card."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/evil_evu_core.jpg",
+    "key": 1991,
+    "name": "Evil Evu",
+    "normalized_name": "Evil_Evu",
+    "original_region": "Naroom",
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": ["Furok", "Plith", "Dream Rift"],
+    "sub type": "Naroom Shadow",
+    "text": "You may play Naroom cards, ignoring regional restrictions and penalties.",
+    "type": "Magi"
+    },
+{
+    "alternate": "Sperri",
+    "cost": 15,
+    "effects": [
+        {
+            "name": "Affinity",
+            "text": "Fiend of Furoks ignores regional penalties and restrictions when playing Furoks."
+        },
+        {
+            "name": "Reconstruct",
+            "text": "Once per turn, you can play a Furok from your discard pile as if it were in your hand, paying all costs."
+        }
+    ],
+    "energize": 6,
+    "image": "/TR2/fiend_of_furoks_core.jpg",
+    "key": 1505,
+    "name": "Fiend of Furoks",
+    "normalized_name": "Fiend_of_Furoks",
+    "original_region": "Naroom",
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": ["[One Furok]", "Shadow Bones"],
+    "sub type": "Naroom Shadow",
+    "type": "Magi"
+    },
+{
+    "alternate": "Fossik",
+    "cost": 12,
+    "energize": 6,
+    "image": "/TR2/fossik_underkeeper_unde.jpg",
+    "key": 1536,
+    "name": "Fossik, Underkeeper",
+    "normalized_name": "Fossik_Underkeeper",
+    "powers": [
+        {
+            "name": "Strengthen",
+            "text": "Choose any one of your Creatures in play. Discard a card from your hand to add two energy to the chosen Creature."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "starting": ["Crystal Jile", "Parmalag", "Bottomless Pit"],
+    "sub type": "Keeper",
+    "type": "Magi"
+    },
+{
+    "cost": 6,
+    "effects": [
+        {
+            "name": "Talisman",
+            "text": "If you have an Amulet of Ombor in play, you can play Gate to Ombor from your hand or from your deck, ignoring all costs. Add one to all die rolls you make for Amulet of Ombor (die rolls of 6 remain 6)."
+        },
+        {
+            "name": null,
+            "text": "Gate to Ombor cannot be discarded from play by opposing cards that specifically discard Relics from play. Discard Gate to Ombor from play if your Magi is not an Underneath Magi."
+        }
+    ],
+    "image": "/TR2/gate_to_ombor_unde.jpg",
+    "key": 1537,
+    "name": "Gate to Ombor",
+    "normalized_name": "Gate_to_Ombor",
+    "powers": [
+        {
+            "cost": 2,
+            "name": "Guard",
+            "text": "Search your deck for one of your Magi's starting Creatures. Play that Creature, reducing its cost by five energy, to a minimum of zero. That Creature can never attack."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": "Glow",
+            "text": "All of your Creatures can attack while burrowed."
+        }
+    ],
+    "image": "/TR2/ghost_bwisp_unde.jpg",
+    "key": 1538,
+    "name": "Ghost Bwisp",
+    "normalized_name": "Ghost_Bwisp",
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "alt_play": "Weave",
+    "cost": 9,
+    "effects": [
+        {
+            "name": "Impede",
+            "text": "All players draw one less card during their Draw Step."
+        }
+    ],
+    "image": "/TR2/gia_pet_core.jpg",
+    "key": 1506,
+    "name": "Gia Pet",
+    "normalized_name": "Gia_Pet",
+    "powers": [
+        {
+            "name": "Power Siphon",
+            "text": "Choose any one opposing Spell in play. Gia Pet gains energy equal to the energy cost of the chosen Spell."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Weave Magi can play Gia Pet. Non-Core, non-Weave Magi cannot play Gia Pet.",
+    "type": "Creature"
+    },
+{
+    "cost": 5,
+    "image": "/TR2/giant_parmalag_unde.jpg",
+    "key": 1539,
+    "name": "Giant Parmalag",
+    "normalized_name": "Giant_Parmalag",
+    "powers": [
+        {
+            "cost": 3,
+            "name": "Withdraw",
+            "text": "Giant Parmalag cannot be attacked until after your next turn."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Dream Blur",
+            "text": "All of your Bograth Creatures in play are also Core. All of your Core Creatures in play are also Bograth."
+        },
+        {
+            "name": "Shifty",
+            "text": "Glablit loses no energy from opposing Effects."
+        }
+    ],
+    "image": "/TR2/glablit_bogr.jpg",
+    "key": 1464,
+    "name": "Glablit",
+    "normalized_name": "Glablit",
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Paydirt",
+            "text": "Whenever one of your Creatures defeats an opposing Creature in an attack, draw a card."
+        }
+    ],
+    "image": "/TR2/gogors_spade_unde.jpg",
+    "key": 1540,
+    "name": "Gogor's Spade",
+    "normalized_name": "Gogors_Spade",
+    "rarity": "R",
+    "regions": ["Underneath", "Kybar's Teeth"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 17,
+    "energize": 4,
+    "image": "/TR2/golthub_bogr.jpg",
+    "key": 1465,
+    "name": "Golthub",
+    "normalized_name": "Golthub",
+    "powers": [
+        {
+            "name": "Mire",
+            "text": "Choose any one region. Defeat Golthub. Discard all non-Magi cards of the chosen region from play."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Bograth", "Core"],
+    "set": "TR2",
+    "starting": ["Glablit", "Gremble", "Moob"],
+    "sub type": "Royal Toady",
+    "text": "Golthub can only play Bograth, Core, and Universal cards.",
+    "type": "Magi"
+    },
+{
+    "cost": 3,
+    "image": "/TR2/gorath_cub_core.jpg",
+    "key": 2047,
+    "name": "Gorath Cub",
+    "normalized_name": "Gorath_Cub",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Chain Whip",
+            "text": "Choose a Creature or Magi with more than its printed starting energy. Remove three energy from it."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 3,
+    "effects": [
+        {
+            "name": "Melancholy",
+            "text": "Whenever one of your Creatures loses energy from an opposing Spell or Power, add one energy to Gragling."
+        },
+        {
+            "name": "Lonely",
+            "text": "If you have another Creature in play, Gragling gains '\"energize\": 1'."
+        }
+    ],
+    "image": "/TR2/gragling_core.jpg",
+    "key": 1507,
+    "name": "Gragling",
+    "normalized_name": "Gragling",
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 13,
+    "effects": [
+        {
+            "name": "Share",
+            "text": "Whenever you play a Bograth Creature, choose any one Bograth Creature in play. Add one energy to the chosen Creature."
+        },
+        {
+            "name": "Transform",
+            "text": "When you reveal Grahnna, if your previous Magi was Wiep, place any one Bograth card from your discard pile into your hand."
+        }
+    ],
+    "energize": 4,
+    "image": "/TR2/grahnna_bogr.jpg",
+    "key": 1465,
+    "name": "Grahnna",
+    "normalized_name": "Grahnna",
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "starting": ["Mirago", "Treepsh", "Trulb"],
+    "sub type": "Revered Important Person",
+    "type": "Magi"
+    },
+{
+    "cost": 5,
+    "effects": [
+        {
+            "name": "Burrow",
+            "text": "On all opponents' turns, Granas is burrowed; it cannot attack and loses no more than two energy per turn from attacks and opposing Spells and Powers."
+        },
+        {
+            "name": "Pummel",
+            "text": "Whenever Granas attacks a Creature, Granas removes an additional energy from the defending Creature."
+        }
+    ],
+    "image": "/TR2/granas_unde.jpg",
+    "key": 1541,
+    "name": "Granas",
+    "normalized_name": "Granas",
+    "rarity": "R",
+    "regions": ["Underneath", "Cald"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Enduring Renewal",
+            "text": "Whenever one of your Creatures is discarded from play, you may discard one energy from your Magi to draw a card."
+        }
+    ],
+    "image": "/TR2/great_throne_mushrooms_bogr.jpg",
+    "key": 1466,
+    "name": "Great Throne Mushrooms",
+    "normalized_name": "Great_Throne_Mushrooms",
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/gremble_bogr.jpg",
+    "key": 1467,
+    "name": "Gremble",
+    "normalized_name": "Gremble",
+    "powers": [
+        {
+            "name": "Parasitic Growth",
+            "text": "Discard Gremble from play. Discard your hand and draw three cards."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth", "Paradwyn"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 3,
+    "image": "/TR2/grubble_core.jpg",
+    "key": 1508,
+    "name": "Grubble",
+    "normalized_name": "Grubble",
+    "powers": [
+        {
+            "name": "Dreamform",
+            "text": "Choose any one other Grubble in play. Discard both this Grubble and the chosen Grubble from play. Search your deck for any one Creature and play that Creature with its starting energy."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 14,
+    "energize": 5,
+    "image": "/TR2/gulg_unde.jpg",
+    "key": 2048,
+    "name": "Gulg",
+    "normalized_name": "Gulg",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Fortify",
+            "text": "Add two energy to each Creature you control that defeated a Creature in an attack this turn."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "starting": ["Entrench", "Rumble Stones", "Strag's Claws"],
+    "type": "Magi"
+    },
+{
+    "alt_play": "Naroom",
+    "cost": 4,
+    "effects": [
+        {
+            "name": "Night's Shade",
+            "text": "Once per turn, when a Creature is discarded from play, choose a Creature. Discard two energy from the chosen Creature."
+        }
+    ],
+    "image": "/TR2/gumph_core.jpg",
+    "key": 1509,
+    "name": "Gumph",
+    "normalized_name": "Gumph",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Naroom Magi can play Gumph.",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Vile Herald",
+            "text": "Bograth Magi and Core Magi can play both Core Creatures and Bograth Creatures, ignoring regional penalties and restrictions."
+        },
+        {
+            "name": "Escape",
+            "text": "If Gwaeg is defeated while defending, place it into your hand instead of your discard pile."
+        }
+    ],
+    "image": "/TR2/gwaeg_bogr.jpg",
+    "key": 1468,
+    "name": "Gwaeg",
+    "normalized_name": "Gwaeg",
+    "rarity": "C",
+    "regions": ["Bograth", "Core"],
+    "set": "TR2",
+    "text": "Only Bograth Magi or Core Magi can play Gwaeg.",
+    "type": "Creature"
+    },
+{
+    "cost": 10,
+    "effects": [
+        {
+            "name": "Digging Mastery",
+            "text": "Each of your Underneath Creatures in play loses no more than two energy each time it is attacked."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/gyrg_unde.jpg",
+    "key": 1542,
+    "name": "Gyrg",
+    "normalized_name": "Gyrg",
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "starting": ["Cave Rudwot", "Grakanden", "Resonate"],
+    "type": "Magi"
+    },
+{
+    "alt_play": "Arderial",
+    "cost": 5,
+    "image": "/TR2/harban_core.jpg",
+    "key": 1510,
+    "name": "Harban",
+    "normalized_name": "Harban",
+    "powers": [
+        {
+            "name": "Browbeat",
+            "text": "Choose any one opposing Creature in play with only one energy. Gain control of the chosen Creature."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Arderial Magi may play Harban.",
+    "type": "Creature"
+    },
+{
+    "alternate": "Harror",
+    "cost": 11,
+    "effects": [
+        {
+            "name": "Starfire",
+            "text": "Magi can retrieve, but not play, their starting cards. Your cards cannot force other players to discard cards from their hands."
+        },
+        {
+            "name": null,
+            "text": "If any opposing Magi are Core, decrease Harror, Nightstalker's energy by two."
+        }
+    ],
+    "energize": 7,
+    "image": "/TR2/harror_nightstalker_core.jpg",
+    "key": 1511,
+    "name": "Harror, Nightstalker",
+    "normalized_name": "Harror_Nightstalker",
+    "original_region": "Arderial",
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": null,
+    "sub type": "Arderial Shadow",
+    "type": "Magi"
+    },
+{
+    "cost": 5,
+    "image": "/TR2/haunt_core.jpg",
+    "key": 1512,
+    "name": "Haunt",
+    "normalized_name": "Haunt",
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Choose an opposing Creature. Attach Haunt to the chosen Creature. When that Creature is discarded, play it instead, ignoring all costs and regional restrictions. The Creature becomes Core instead of its original region(s). The Creature cannot attack the turn you play it.",
+    "type": "Spell"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/haunting_visions_core.jpg",
+    "key": 2049,
+    "name": "Haunting Visions",
+    "normalized_name": "Haunting_Visions",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Choose an opposing Creature and attach Haunting Visions to it. The Creature may not be chosen by its controller's Spells and Powers.",
+    "type": "Spell"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/hidden_door_unde.jpg",
+    "key": 1543,
+    "name": "Hidden Door",
+    "normalized_name": "Hidden_Door",
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "starting_magi": "Trug",
+    "text": "Search your deck for up to two Underneath Relics and place them into your hand.",
+    "type": "Spell"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": "Dreamfetch",
+            "text": "Whenever you play an Underneath Spell that does not remain in play, you may discard Hubram from play to put the Spell into your hand instead of your discard pile."
+        }
+    ],
+    "image": "/TR2/hubram_unde.jpg",
+    "key": 1997,
+    "name": "Hubram",
+    "normalized_name": "Hubram",
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/impact_unde.jpg",
+    "key": 1544,
+    "name": "Impact",
+    "normalized_name": "Impact",
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "text": "Choose any one of your Creatures and any one Magi in play. Discard twice as much energy as the chosen Creature has from the chosen Magi. Discard the chosen Creature from play.",
+    "type": "Spell"
+    },
+{
+    "cost": 3,
+    "effects": [
+        {
+            "name": "Vitalize",
+            "text": "All of your Jiles and Bograth Creatures in play gain energize: 1."
+        },
+        {
+            "name": "Shifty",
+            "text": "Jile loses no energy from opposing Effects."
+        }
+    ],
+    "image": "/TR2/jile_bogr.jpg",
+    "key": 1469,
+    "name": "Jile",
+    "normalized_name": "Jile",
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 4,
+    "image": "/TR2/jore_unde.jpg",
+    "key": 1545,
+    "name": "Jore",
+    "normalized_name": "Jore",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Nourish",
+            "text": "Add one energy to each of your other burrowed Creatures."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/kiesels_hammer_unde.jpg",
+    "key": 2050,
+    "name": "Kiesel's Hammer",
+    "normalized_name": "Kiesels_Hammer",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Daze",
+            "text": "Choose a Creature and remove one energy from it. That Creature may not gain energy until the beginning of your next turn."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 4,
+    "effects": [
+        {
+            "name": "Nightmare",
+            "text": "When you play Koil, choose any one Creature in play. Discard one energy from the chosen Creature."
+        },
+        {
+            "name": "Re-Koil",
+            "text": "If Koil is defeated in any attack, after it is discarded from play, choose any one player's discard pile. Shuffle the chosen discard pile into its owner's deck."
+        }
+    ],
+    "image": "/TR2/koil_core.jpg",
+    "key": 1513,
+    "name": "Koil",
+    "normalized_name": "Koil",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "alternate": "Korg, Zet",
+    "cost": 6,
+    "effects": [
+        {
+            "name": "Korg",
+            "text": "Korg & Zet may play no more than two cards each turn and may not play Relics."
+        },
+        {
+            "name": "Zet",
+            "text": "Whenever one of your Creatures attacks, once per attack, one of your other Creatures may join in the attack. The defending Creature's player chooses one of your attacking Creatures to lose energy in the attack."
+        }
+    ],
+    "energize": 11,
+    "image": "/TR2/korg_&_zet_core.jpg",
+    "key": 1514,
+    "name": "Korg & Zet",
+    "normalized_name": "Korg_Zet",
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": ["Shadow Cloak"],
+    "text": "Korg & Zet count as two Magi for deck construction.",
+    "type": "Magi"
+    },
+{
+    "alternate": "Lanyx",
+    "cost": 15,
+    "energize": 5,
+    "image": "/TR2/lanyx_reaper_core.jpg",
+    "key": 2051,
+    "name": "Lanyx, Reaper",
+    "normalized_name": "Lanyx_Reaper",
+    "original_region": "Cald",
+    "powers": [
+        {
+            "cost": 4,
+            "name": "Hatred",
+            "text": "Remove two energy from each opposing Creature. Remove one extra energy from each d'Resh Creature."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": ["Gorath Cub", "Shadow Dryte", "Sinder's Mantle"],
+    "sub type": "Cald Shadow",
+    "type": "Magi"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": "Regroup",
+            "text": "If Looph attacks and is defeated, you may immediately play a Bograth Creature from your hand, paying all costs."
+        }
+    ],
+    "image": "/TR2/looph_bogr.jpg",
+    "key": 1470,
+    "name": "Looph",
+    "normalized_name": "Looph",
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "alt_play": "Orothe",
+    "cost": "X",
+    "image": "/TR2/maelstrom_core.jpg",
+    "key": 1515,
+    "name": "Maelstrom",
+    "normalized_name": "Maelstrom",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Discard X energy from each opposing Magi in play.\nOrothe Magi may play Maelstrom.",
+    "type": "Spell"
+    },
+{
+    "cost": 15,
+    "effects": [
+        {
+            "name": "Calling",
+            "text": "Mist Hyren's cost is reduced by one for each of your Creatures in play."
+        },
+        {
+            "name": null,
+            "text": "Mist Hyren can only be played during your Play Creatures Step."
+        }
+    ],
+    "image": "/TR2/mist_hyren_bogr.jpg",
+    "key": 1471,
+    "name": "Mist Hyren",
+    "normalized_name": "Mist_Hyren",
+    "rarity": "R",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/moob_bogr.jpg",
+    "key": 1985,
+    "name": "Moob",
+    "normalized_name": "Moob",
+    "powers": [
+        {
+            "name": "Retrieve",
+            "text": "Discard Moob from play. Add one energy to your Magi for each of your Bograth Creatures in play."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 0,
+    "effects": [
+        {
+            "name": "Martyr",
+            "text": "Whenever an opposing Spell, Power, or Effect discards energy from one or more of your Creatures in play, you may discard any one of your Bograth Creatures from play. If you do, the Spell, Power, or Effect does nothing."
+        }
+    ],
+    "image": "/TR2/moob_ring_bogr.jpg",
+    "key": 1988,
+    "name": "Moob Ring",
+    "normalized_name": "Moob_Ring",
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "text": "If an opposing Spell, Power, or Effect causes you to discard one or more cards from your hand, you may discard Moob Ring from your hand or from play instead. If you do, until your current Magi is defeated, no opposing cards can cause you to discard cards from your hand.",
+    "type": "Relic"
+    },
+{
+    "cost": 14,
+    "energize": 7,
+    "image": "/TR2/morag_core.jpg",
+    "key": 1516,
+    "name": "Morag",
+    "normalized_name": "Morag",
+    "powers": [
+        {
+            "cost": "X",
+            "name": "Theft",
+            "text": "Choose any one Relic in play. Gain control of the chosen Relic for your next X turns. At the end of X turns, or if Morag is defeated, return that Relic to its owner's hand."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": ["Borgor", "Shryque", "Dream Rift"],
+    "type": "Magi"
+    },
+{
+    "cost": 3,
+    "image": "/TR2/moss_quido_bogr.jpg",
+    "key": 1986,
+    "name": "Moss Quido",
+    "normalized_name": "Moss_Quido",
+    "powers": [
+        {
+            "name": "Dark Secrets",
+            "text": "Discard Moss Quido from play. Draw one card for each of your Bograth or Core Creatures in play, whichever is greater. Use this Power only before your Attack Step."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Shifty",
+            "text": "This Creature loses no energy from opposing Effects."
+        }
+    ],
+    "image": "/TR2/moss_trulb_bogr.jpg",
+    "key": 2052,
+    "name": "Moss Trulb",
+    "normalized_name": "Moss_Trulb",
+    "powers": [
+        {
+            "cost": 0,
+            "name": "Multiply",
+            "text": "If you control another Trulb, move one energy from each opposing Magi to Moss Trulb."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/muck_shovel_bogr.jpg",
+    "key": 2053,
+    "name": "Muck Shovel",
+    "normalized_name": "Muck_Shovel",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Depression",
+            "text": "Choose two Bograth Creatures. Move up to five energy from one Creature to the other Creature."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": "Shifty",
+            "text": "Muck Vinoc loses no energy from opposing Effects."
+        }
+    ],
+    "image": "/TR2/muck_vinoc_bogr.jpg",
+    "key": 1472,
+    "name": "Muck Vinoc",
+    "normalized_name": "Muck_Vinoc",
+    "powers": [
+        {
+            "cost": 3,
+            "name": "Grapple",
+            "text": "Choose any one Creature in play with seven or more energy. Discard Muck Vinoc and the chosen Creature from play."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/mud_bubble_bogr.jpg",
+    "key": 2054,
+    "name": "Mud Bubble",
+    "normalized_name": "Mud_Bubble",
+    "rarity": "R",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "text": "Choose a Bograth Creature in your discard pile. Place that Creature in your hand. If you play one or more copies of that Creature this turn, draw a card at the end of your turn.",
+    "type": "Spell"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/muggum_unde.jpg",
+    "key": 1546,
+    "name": "Muggum",
+    "normalized_name": "Muggum",
+    "powers": [
+        {
+            "name": "Burrow",
+            "text": "Discard Muggum from play. Choose any two Bograth and/or Underneath Creatures in play. Until the end of your next turn, both chosen Creatures are burrowed; they cannot attack and lose no more than two energy per turn from attacks and opposing Spells and Powers."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Underneath", "Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 14,
+    "effects": [
+        {
+            "name": "Burrow",
+            "text": "Myka loses no more than two energy from each opposing Spell, Power or attack."
+        }
+    ],
+    "energize": 6,
+    "image": "/TR2/myka_unde.jpg",
+    "key": 1547,
+    "name": "Myka",
+    "normalized_name": "Myka",
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "starting": ["Gum-Gum", "Cave Rudwot", "Rabid Bisiwog"],
+    "type": "Magi"
+    },
+{
+    "cost": 7,
+    "image": "/TR2/nightmare_hyren_core.jpg",
+    "key": 1516,
+    "name": "Nightmare Hyren",
+    "normalized_name": "Nightmare_Hyren",
+    "powers": [
+        {
+            "cost": 3,
+            "name": "Horrible Dreams",
+            "text": "Choose an opposing Creature. The chosen Creature gains 'Effect — Toss and Turn: At the beginning of your turn, discard one energy from your Magi and each of your Creatures in play. This Creature removes two less energy from Core Creatures in attacks.'"
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 8,
+    "energize": 2,
+    "image": "/TR2/ninibom_bogr.jpg",
+    "key": 1473,
+    "name": "Ninibom",
+    "normalized_name": "Ninibom",
+    "rarity": "R",
+    "regions": ["Bograth", "Core"],
+    "set": "TR2",
+    "starting": ["Green Stuff", "Gremble"],
+    "sub type": "Universal Greeter",
+    "text": "If your defeated Magi are Baa, Wiep, and Grannah, in that order, you can play Ninibom as a fourth Magi. You do not lose the game until Ninibom is defeated. If Ninibom is not your fourth Magi, increase Ninibom's energize to seven. Ninibom can only play Bograth, Core, and Universal cards.",
+    "type": "Magi"
+    },
+{
+    "cost": 16,
+    "effects": [
+        {
+            "name": "Resilience",
+            "text": "Your Creatures cannot be reduced below one energy by opposing Spells and Powers."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/olabra_bogr.jpg",
+    "key": 1474,
+    "name": "Olabra",
+    "normalized_name": "Olabra",
+    "rarity": "R",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "starting": ["Jile", "Crown of Grath", "Moss Pendant"],
+    "sub type": "The Really Greatest Elder Ever",
+    "type": "Magi"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": "Shifty",
+            "text": "Ooze Arboll loses no energy from opposing Effects."
+        }
+    ],
+    "image": "/TR2/ooze_arboll_bogr.jpg",
+    "key": 1475,
+    "name": "Ooze Arboll",
+    "normalized_name": "Ooze_Arboll",
+    "powers": [
+        {
+            "name": "Amplify",
+            "text": "Discard Ooze Arboll from play. Add one energy to each of your Bograth Creatures in play."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 10,
+    "image": "/TR2/ormagon_unde.jpg",
+    "key": 1548,
+    "name": "Ormagon",
+    "normalized_name": "Ormagon",
+    "powers": [
+        {
+            "cost": 10,
+            "name": "Devastate",
+            "text": "Discard all non-Underneath Creatures from play."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 3,
+    "image": "/TR2/parmalag_unde.jpg",
+    "key": 1549,
+    "name": "Parmalag",
+    "normalized_name": "Parmalag",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Shield",
+            "text": "Parmalag is prevented from losing any energy from attacks until the end of your turn."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 12,
+    "energize": 5,
+    "image": "/TR2/phlouk_bogr.jpg",
+    "key": 1476,
+    "name": "Phlouk",
+    "normalized_name": "Phlouk",
+    "powers": [
+        {
+            "name": "Ring Testing",
+            "text": "Play a Bograth Creature from your hand, ignoring all costs. That Creature cannot attack this turn. At the end of your turn, discard energy from Phlouk equal to the Creature's starting energy. If you don't have enough energy on Phlouk, discard the Creature from play."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "starting": ["Gremble", "Jile", "Muck Vinoc"],
+    "sub type": "Grand Supreme Ringsmith",
+    "type": "Magi"
+    },
+{
+    "cost": 7,
+    "effects": [
+        {
+            "name": "Light Barrier",
+            "text": "Opposing Creatures with less energy than Phosphor Hyren cannot attack your non-Hyren Underneath Creatures. Phosphor Hyren cannot be burrowed."
+        }
+    ],
+    "image": "/TR2/phosphor_hyren_unde.jpg",
+    "key": 1550,
+    "name": "Phosphor Hyren",
+    "normalized_name": "Phosphor_Hyren",
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 9,
+    "effects": [
+        {
+            "name": "Stabilize",
+            "text": "As one of your Creatures is attacked, add one energy to it."
+        }
+    ],
+    "image": "/TR2/pillar_hyren_unde.jpg",
+    "key": 2055,
+    "name": "Pillar Hyren",
+    "normalized_name": "Pillar_Hyren",
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "text": "If your Magi is Underneath, Pillar Hyren may not be discarded from play by opposing Spells, Powers or Effects while it still has energy. Your Powers, Spells and Effects cannot reduce the amount of energy removed from Pillar Hyren in attacks.",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Leadership",
+            "text": "When you play Pyder, move all but one energy from your Magi to Pyder. Whenever you energize, move all but one energy from your Magi to Pyder."
+        },
+        {
+            "name": "Summoning",
+            "text": "Whenever you play a Creature, discard energy from Pyder to play the Creature. All of your Bograth Creatures cost one less energy to play, to a minimum of one."
+        }
+    ],
+    "image": "/TR2/pyder_bogr.jpg",
+    "key": 1477,
+    "name": "Pyder",
+    "normalized_name": "Pyder",
+    "rarity": "R",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 5,
+    "effects": [
+        {
+            "name": "Burrow",
+            "text": "Pylofuf is burrowed; it cannot attack and loses no more than two energy per turn from attacks and your opponents' Spells and Powers."
+        }
+    ],
+    "image": "/TR2/pylofuf_unde.jpg",
+    "key": 1551,
+    "name": "Pylofuf",
+    "normalized_name": "Pylofuf",
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "shadow_play": "Underneath",
+    "text": "Underneath Shadow Magi may play Pylofuf.",
+    "type": "Creature"
+    },
+{
+    "cost": "X",
+    "effects": [
+        {
+            "name": "Calling",
+            "text": "Quido Swarm's starting energy is equal to the number of your other Paradwyn and Bograth Creatures in play."
+        },
+        {
+            "name": "Swarm",
+            "text": "At the beginning of each of your turns, restore Quido Swarm to its starting energy."
+        }
+    ],
+    "image": "/TR2/quido_swarm_bogr.jpg",
+    "key": 1478,
+    "name": "Quido Swarm",
+    "normalized_name": "Quido_Swarm",
+    "rarity": "C",
+    "regions": ["Bograth", "Paradwyn"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 12,
+    "energize": 5,
+    "image": "/TR2/qwade_core.jpg",
+    "key": 1517,
+    "name": "Qwade",
+    "normalized_name": "Qwade",
+    "original_region": "Orothe",
+    "powers": [
+        {
+            "cost": "X+4",
+            "name": "Leech",
+            "text": "Choose any two Creatures in play. Discard X energy from one of the chosen Creatures. Add X energy to the other chosen Creature."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": ["Storm of Fishes", "Trask", "Tragan"],
+    "sub type": "Orothe Shadow",
+    "type": "Magi"
+    },
+{
+    "alt_play": "Naroom",
+    "cost": 4,
+    "effects": [
+        {
+            "name": "Counterattack",
+            "text": "Immediately after one of your cards is attacked, you may play Rabid Wasperine, paying all costs. If your Magi is Naroom Shadow, add one energy to Rabid Wasperine when you play it. Rabid Wasperine immediately attacks the opposing Creature that just attacked."
+        }
+    ],
+    "image": "/TR2/rabid_wasperine_core.jpg",
+    "key": 1518,
+    "name": "Rabid Wasperine",
+    "normalized_name": "Rabid_Wasperine",
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Naroom Magi can play Rabid Wasperine.",
+    "type": "Creature"
+    },
+{
+    "cost": 14,
+    "energize": 5,
+    "image": "/TR2/radget_unde.jpg",
+    "key": 1552,
+    "name": "Radget",
+    "normalized_name": "Radget",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Refresh",
+            "text": "Choose any one Creature in play. Add one energy to the chosen Creature. Add two additional energy if the chosen Creature is a Parmalag."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "starting": ["Giant Parmalag", "Crystal Arboll", "Impact"],
+    "type": "Magi"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/resonate_unde.jpg",
+    "key": 1553,
+    "name": "Resonate",
+    "normalized_name": "Resonate",
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "text": "Choose any or all of the following: Choose any one Relic in play. Discard the chosen Relic from play. OR Choose any one Creature in play. Discard one energy from the chosen Creature. OR Choose any one Magi in play. Discard two energy from the chosen Magi. For each action chosen, Resonate's cost is increased by one.",
+    "type": "Spell"
+    },
+{
+    "cost": 0,
+    "effects": [
+        {
+            "name": "Tinker",
+            "text": "Whenever you play a Relic, choose any one Creature in play. Add one energy to the chosen Creature."
+        }
+    ],
+    "image": "/TR2/ring_of_secrets_univ.jpg",
+    "key": 1563,
+    "name": "Ring of Secrets",
+    "normalized_name": "Ring_of_Secrets",
+    "rarity": "U",
+    "regions": ["Universal"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 0,
+    "effects": [
+        {
+            "name": "Ancestral Favor",
+            "text": "Your Spells cost one less energy to play, to a minimum of one."
+        }
+    ],
+    "image": "/TR2/robes_of_the_ages_univ.jpg",
+    "key": 1564,
+    "name": "Robes of the Ages",
+    "normalized_name": "Robes_of_the_Ages",
+    "rarity": "U",
+    "regions": ["Universal"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": "Blight",
+            "text": "After an opponent plays a Creature with more energy than Rot Arboll, move one energy from that Creature to Rot Arboll."
+        },
+        {
+            "name": "Shifty",
+            "text": "This Creature loses no energy from opposing Effects."
+        }
+    ],
+    "image": "/TR2/rot_arboll_bogr.jpg",
+    "key": 2056,
+    "name": "Rot Arboll",
+    "normalized_name": "Rot_Arboll",
+    "rarity": "R",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 3,
+    "effects": [
+        {
+            "name": "Myth",
+            "text": "Rous cannot be attacked. If all of your Creatures in play are Rous, discard Rous from play."
+        }
+    ],
+    "image": "/TR2/rous_bogr.jpg",
+    "key": 1479,
+    "name": "Rous",
+    "normalized_name": "Rous",
+    "powers": [
+        {
+            "name": "Hit",
+            "text": "Choose one opposing Creature. Move one energy from the chosen Creature to Rous."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Bograth", "Core"],
+    "set": "TR2",
+    "text": "Only Bograth Magi or Core Magi can play Rous.",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/rumble_stones_unde.jpg",
+    "key": 2057,
+    "name": "Rumble Stones",
+    "normalized_name": "Rumble_Stones",
+    "powers": [
+        {
+            "cost": 2,
+            "name": "Mini-Quake",
+            "text": "Remove one energy from each non-Underneath Creature and Magi."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 0,
+    "image": "/TR2/secrets_of_the_book_core.jpg",
+    "key": 1519,
+    "name": "Secrets of the Book",
+    "normalized_name": "Secrets_of_the_Book",
+    "powers": [
+        {
+            "cost": 3,
+            "name": "Secrets",
+            "text": "Choose any one opposing player. The chosen player reveals his or her hand to all players. Draw one card for each Creature revealed, and one card for each non-Creature Naroom card revealed."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "alt_play": "Orothe",
+    "cost": 6,
+    "image": "/TR2/severos_core.jpg",
+    "key": 1520,
+    "name": "Severos",
+    "normalized_name": "Severos",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Mind Dredge",
+            "text": "Choose a Creature in an opponent's discard pile. Play the chosen Creature, ignoring regional restrictions and penalties. Pay all costs from Severos instead of your Magi. Use this Power only after the Attack step. When that Creature leaves play, discard Severos from play."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Orothe Magi can play Severos",
+    "type": "Creature"
+    },
+{
+    "cost": 0,
+    "image": "/TR2/shadow_bones_core.jpg",
+    "key": 1521,
+    "name": "Shadow Bones",
+    "normalized_name": "Shadow_Bones",
+    "powers": [
+        {
+            "cost": 4,
+            "name": "Vitalize",
+            "text": "Choose any one Core Creature in play. Discard Shadow Bones from play. Add energy to the chosen Creature equal to that Creature's starting energy."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 0,
+    "image": "/TR2/shadow_cloak_core.jpg",
+    "key": 1522,
+    "name": "Shadow Cloak",
+    "normalized_name": "Shadow_Cloak",
+    "powers": [
+        {
+            "cost": 2,
+            "name": "Protection",
+            "text": "Each of your Core Creatures in play is not affected by non-Core Spells and Powers until the end of your next turn. You may not use Shadow Cloak on your next turn."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 5,
+    "effects": [
+        {
+            "name": "Descendance",
+            "text": "After Shadow Dryte defeats a Creature while attacking, add four energy to Shadow Dryte."
+        }
+    ],
+    "image": "/TR2/shadow_dryte_core.jpg",
+    "key": 2058,
+    "name": "Shadow Dryte",
+    "normalized_name": "Shadow_Dryte",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Feed",
+            "text": "After a Furok is discarded from play, you may play one copy of Shadow Fird from your discard pile, ignoring all costs."
+        }
+    ],
+    "image": "/TR2/shadow_fird_core.jpg",
+    "key": 2059,
+    "name": "Shadow Fird",
+    "normalized_name": "Shadow_Fird",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 3,
+    "image": "/TR2/shroud_of_the_master_core.jpg",
+    "key": 2060,
+    "name": "Shroud of the Master",
+    "normalized_name": "Shroud_of_the_Master",
+    "powers": [
+        {
+            "cost": 0,
+            "name": "Absolute Authority",
+            "text": "Discard a Core card from your hand. Add one energy to your Magi and one energy to each of your Core Creatures. If your Magi is Agram, add one extra energy to each of your Core Creatures."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 3,
+    "image": "/TR2/slarnath_bogr.jpg",
+    "key": 1480,
+    "name": "Slarnath",
+    "normalized_name": "Slarnath",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Demand",
+            "text": "If you have four or more Bograth Creatures in play, draw a card."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 0,
+    "image": "/TR2/slime_stone_bogr.jpg",
+    "key": 1481,
+    "name": "Slime Stone",
+    "normalized_name": "Slime_Stone",
+    "powers": [
+        {
+            "name": "Shriveled Dreams",
+            "text": "Choose any one Creature in play. Until the beginning of your next turn, the chosen Creature has a starting energy of one instead of its normal starting energy."
+        },
+        {
+            "name": "Grand Nightmares",
+            "text": "Choose any one Creature in play. Until the beginning of your next turn, the chosen Creature has a starting energy of ten instead of its normal starting energy."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Bograth", "Kybar's Teeth"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/slinking_greal_core.jpg",
+    "key": 2061,
+    "name": "Slinking Greal",
+    "normalized_name": "Slinking_Greal",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Skulk",
+            "text": "Choose an opposing Core Creature and remove one energy from it. That Creature's controller chooses a Creature he or she controls and removes two energy from it."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Slinking Greal's text cannot be altered.\nNon-Core Magi may play Slinking Greal.",
+    "type": "Creature"
+    },
+{
+    "alternate": "Ogar",
+    "cost": 15,
+    "effects": [
+        {
+            "name": "Vile Memories",
+            "text": "Sorrowing Ogar can play all Core cards ignoring regional penalties and restrictions. Core cards that Sorrowing Ogar plays are considered Underneath instead of Core."
+        },
+        {
+            "name": "Regret",
+            "text": "All Core cards cost opposing Magi one additional energy to play."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/sorrowing_ogar_unde.jpg",
+    "key": 1554,
+    "name": "Sorrowing Ogar",
+    "normalized_name": "Sorrowing_Ogar",
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "starting": ["Agovo", "Black Agovo", "Cleansing"],
+    "text": "Sorrowing Ogar may not be played in a deck with any Core Magi.",
+    "type": "Magi"
+    },
+{
+    "cost": 3,
+    "image": "/TR2/spirit_drain_bogr.jpg",
+    "key": 1482,
+    "name": "Spirit Drain",
+    "normalized_name": "Spirit_Drain",
+    "rarity": "C",
+    "regions": ["Bograth", "Paradwyn"],
+    "set": "TR2",
+    "text": "Choose any one player. Discard energy from the chosen player's Magi equal to the number of cards in that player's hand.",
+    "type": "Spell"
+    },
+{
+    "cost": 4,
+    "effects": [
+        {
+            "name": "Pack Defense",
+            "text": "Whenever one of your other Creatures is attacked, Striped Korrit may defend with that Creature. Striped Korrit loses no energy in the attack, but removes energy from the attacker as normal."
+        }
+    ],
+    "image": "/TR2/striped_korrit_unde.jpg",
+    "key": 1555,
+    "name": "Striped Korrit",
+    "normalized_name": "Striped_Korrit",
+    "rarity": "R",
+    "regions": ["Underneath", "Weave"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "alt_play": "Core",
+    "cost": 8,
+    "effects": [
+        {
+            "name": "Nightmare Gate",
+            "text": "All of your other Core and Bograth cards cost one less energy to play, to a minimum of one."
+        }
+    ],
+    "image": "/TR2/swamp_hyren_bogr.jpg",
+    "key": 1483,
+    "name": "Swamp Hyren",
+    "normalized_name": "Swamp_Hyren",
+    "rarity": "R",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "text": "Core Magi may play Swamp Hyren.",
+    "type": "Creature"
+    },
+{
+    "alternate": "T'lok",
+    "cost": 14,
+    "effects": [
+        {
+            "name": "Betrayed Secrets",
+            "text": "Effects may not reduce the amount of energy removed from opposing Creatures in attacks."
+        },
+        {
+            "name": "Strengthen",
+            "text": "Your Core Creatures remove one extra energy when attacking."
+        }
+    ],
+    "energize": 6,
+    "image": "/TR2/t_lok_traitor_core.jpg",
+    "key": 2062,
+    "name": "T'lok, Traitor",
+    "normalized_name": "Tlok_Traitor",
+    "original_region": "Kybar's Teeth",
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": ["Shroud of the Master", "Gorath Cub", "Twisted Dreams"],
+    "sub type": "Kybar's Teeth Shadow",
+    "type": "Magi"
+    },
+{
+    "cost": 5,
+    "effects": [
+        {
+            "name": "Dreamwarp",
+            "text": "As you play Taglat, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn."
+        }
+    ],
+    "image": "/TR2/taglat_bogr.jpg",
+    "key": 1987,
+    "name": "Taglat",
+    "normalized_name": "Taglat",
+    "powers": [
+        {
+            "name": "Dream Cross",
+            "text": "Choose any one Power or Effect on an opposing card in play. Until the beginning of your next turn, the chosen Power or Effect is considered to be printed on Taglat. Taglat cannot copy a Power or Effect that it already has. All copied Powers that reference the card that they are printed on now reference Taglat."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth", "Paradwyn"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "alternate": "Qwade",
+    "cost": 20,
+    "effects": [
+        {
+            "name": "Leech",
+            "text": "At the beginning of your Play Creatures step, you may discard two energy from The Real Qwade. If you do, until the end of your turn, whenever you play a Creature, choose another Creature. Move one energy from the chosen Creature to the Creature you just played."
+        }
+    ],
+    "energize": 6,
+    "image": "/TR2/the_real_qwade_core.jpg",
+    "key": 1523,
+    "name": "The Real Qwade",
+    "normalized_name": "The_Real_Qwade",
+    "original_region": "Orothe",
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": ["Chaos Jile", "Trask", "Maelstrom"],
+    "sub type": "Orothe Shadow",
+    "text": "The Real Qwade can be in a Magi stack with \"Qwade\". When you reveal The Real Qwade, defeat him if your previous defeated Magi was not \"Qwade\".",
+    "type": "Magi"
+    },
+{
+    "cost": "X",
+    "image": "/TR2/thunderquake_unde.jpg",
+    "key": 1556,
+    "name": "Thunderquake",
+    "normalized_name": "Thunderquake",
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "text": "Choose any number of Creatures in play. Discard a total of X energy in any combination from the chosen Creatures. X cannot be more than 10.",
+    "type": "Spell"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": null,
+            "text": "Tomes of the Great Library cannot be discarded from play by opposing cards that specifically discard Relics from play. Discard Tomes of the Great Library from play if your Magi is not a Naroom Magi or Naroom Shadow Magi."
+        }
+    ],
+    "image": "/TR2/tomes_of_the_great_library_core.jpg",
+    "key": 1994,
+    "name": "Tomes of the Great Library",
+    "normalized_name": "Tomes_of_the_Great_Library",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Research",
+            "text": "Search your deck or any opposing discard pile for any one Spell. Play the chosen Spell, ignoring regional restrictions. If that Spell came from your deck, discard it. If it came from an opposing discard pile, shuffle it into its owner's deck."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core", "Naroom"],
+    "set": "TR2",
+    "starting_magi": "Warrada",
+    "type": "Relic"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": null,
+            "text": "Whenever an opposing Power, Spell or Effect forces you to discard one or more cards from your hand, you may discard one energy from your Magi. If you do, the Spell, Power, or Effect does nothing."
+        },
+        {
+            "name": "Lore",
+            "text": "Once during your Draw Step, after you draw, you may discard one card from your hand. If you do, draw one card."
+        }
+    ],
+    "image": "/TR2/tomorrows_jewel_univ.jpg",
+    "key": 1566,
+    "name": "Tomorrow's Jewel",
+    "normalized_name": "Tomorrows_Jewel",
+    "rarity": "C",
+    "regions": ["Universal"],
+    "set": "TR2",
+    "text": "If an opposing card causes you to discard Tomorrow's Jewel from your hand or from play, you my play it instead.",
+    "type": "Relic"
+    },
+{
+    "alt_play": "Orothe",
+    "cost": 4,
+    "effects": [
+        {
+            "name": "Lifetap",
+            "text": "Whenever a Spell or Power adds energy to one or more Creatures in play, add one energy to Trask."
+        }
+    ],
+    "image": "/TR2/trask_core.jpg",
+    "key": 1524,
+    "name": "Trask",
+    "normalized_name": "Trask",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Orothe Magi may play Trask.",
+    "type": "Creature"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": "Watchful",
+            "text": "Whenever an opposing Spell, Power, or Effect discards energy from one or more of your Creatures in play, you may discard Treepsh from play. If you do, the Spell, Power, or Effect does nothing."
+        }
+    ],
+    "image": "/TR2/treepsh_bogr.jpg",
+    "key": 1484,
+    "name": "Treepsh",
+    "normalized_name": "Treepsh",
+    "powers": [
+        {
+            "name": "Supply",
+            "text": "Discard Treepsh from play. Draw a card. If you have more Creatures in play than any one opponent of your choice, draw an additional card."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth", "Paradwyn"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 6,
+    "effects": [
+        {
+            "name": "Inspire",
+            "text": "Draw two additional cards during your Draw step. Reduce your Magi's Energize by two."
+        },
+        {
+            "name": "Frightened",
+            "text": "At the beginning of your turn, any Core Magi may discard three energy to discard Trogovo."
+        }
+    ],
+    "image": "/TR2/trogovo_unde.jpg",
+    "key": 1532,
+    "name": "Trogovo",
+    "normalized_name": "Trogovo",
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/trulb_bracelet_bogr.jpg",
+    "key": 2063,
+    "name": "Trulb Bracelet",
+    "normalized_name": "Trulb_Bracelet",
+    "powers": [
+        {
+            "cost": 0,
+            "name": "Sweet Sorrow",
+            "text": "Discard one of your Trulbs from play. Draw a number of cards equal to the Trulb's printed starting energy, plus one."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/trulbble_bogr.jpg",
+    "key": 2064,
+    "name": "Trulbble!",
+    "normalized_name": "Trulbble",
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "text": "Discard up to four Trulbs you control from play. Draw two cards for each Trulb you discarded.",
+    "type": "Spell"
+    },
+{
+    "cost": 12,
+    "effects": [
+        {
+            "name": "Avenger",
+            "text": "If Trygar is defeated, at the end of the current turn you may play any Creature from your hand. Play three energy on the Creature instead of its normal starting energy. Until the beginning of your next turn, the Creature played is unaffected by your opponents' cards."
+        }
+    ],
+    "energize": 6,
+    "image": "/TR2/trygar_unde.jpg",
+    "key": 1557,
+    "name": "Trygar",
+    "normalized_name": "Trygar",
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "starting": ["Tunneler's Boots", "Ghost Bwisp", "Pylofuf"],
+    "type": "Magi"
+    },
+{
+    "cost": 1,
+    "effects": [
+        {
+            "name": "Legacy",
+            "text": "When your Magi is defeated, choose an opponent and two of that player's non-Magi cards in play. The chosen player chooses and discards one of the chosen cards."
+        }
+    ],
+    "image": "/TR2/trygars_will_unde.jpg",
+    "key": 1558,
+    "name": "Trygar's Will",
+    "normalized_name": "Trygars_Will",
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "text": "Korremar can play Trygar's Will.",
+    "type": "Relic"
+    },
+{
+    "cost": 9,
+    "effects": [
+        {
+            "name": "Burrow",
+            "text": "Your other Underneath Creatures are burrowed; they cannot attack and each lose no more than two energy per turn from attacks and your opponent's Spells and Powers."
+        }
+    ],
+    "image": "/TR2/tunnel_hyren_unde.jpg",
+    "key": 1559,
+    "name": "Tunnel Hyren",
+    "normalized_name": "Tunnel_Hyren",
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 0,
+    "effects": [
+        {
+            "name": "Strengthen",
+            "text": "At the end of each of your turns, add one energy to each burrowed Creature in play."
+        }
+    ],
+    "image": "/TR2/tunnelers_boots_unde.jpg",
+    "key": 1560,
+    "name": "Tunneler's Boots",
+    "normalized_name": "Tunnelers_Boots",
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": "X+3",
+    "image": "/TR2/turn_core.jpg",
+    "key": 1525,
+    "name": "Turn",
+    "normalized_name": "Turn",
+    "rarity": "C",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Choose any one Creature in play with less than its starting energy. X is the chosen Creature's starting energy. The chosen Creature becomes Core and you gain control of it. Restore the chosen Creature to its starting energy.",
+    "type": "Spell"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/twisted_dreams_core.jpg",
+    "key": 2065,
+    "name": "Twisted Dreams",
+    "normalized_name": "Twisted_Dreams",
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "text": "Choose a Power on an opposing Creature. Remove energy from that Creature equal to the cost of the chosen Power (X equals zero).",
+    "type": "Spell"
+    },
+{
+    "alternate": "Ulk",
+    "cost": 15,
+    "effects": [
+        {
+            "name": "Resistance",
+            "text": "Korrits you control may not be chosen by opposing Powers."
+        },
+        {
+            "name": "Fungal Bloom",
+            "text": "After you play a Korrit, add one energy to it."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/ulk_prodigy_unde.jpg",
+    "key": 2066,
+    "name": "Ulk, Prodigy",
+    "normalized_name": "Ulk_Prodigy",
+    "rarity": "R",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "starting": ["Pack Korrit", "Spore Vashp", "Amulet of Ombor"],
+    "type": "Magi"
+    },
+{
+    "cost": 13,
+    "effects": [
+        {
+            "name": "Crystal Affinity",
+            "text": "Crystal cards cost you one less energy to play, to a minimum of one."
+        },
+        {
+            "name": "Resist",
+            "text": "Your Crystal Creatures lose one less energy when attacked."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/ulmi_unde.jpg",
+    "key": 2067,
+    "name": "Ulmi",
+    "normalized_name": "Ulmi",
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "starting": ["Crystal Goblet", "Crystal Jile", "Crystal Arboll"],
+    "type": "Magi"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": "Mud Clod",
+            "text": "When Umbu is discarded from play, choose a Relic in play. Attach Umbu to the chosen Relic; as long as Umbu is attached, it cannot be discarded by having zero energy and is unaffected by cards that affect Creatures. None of the chosen Relic's Powers or Effects can be used. At the beginning of each of your turns, discard one energy from that Relic's Magi. When the Relic is discarded, discard Umbu."
+        },
+        {
+            "name": "Shifty",
+            "text": "Umbu loses no energy from opposing Effects."
+        }
+    ],
+    "image": "/TR2/umbu_bogr.jpg",
+    "key": 1485,
+    "name": "Umbu",
+    "normalized_name": "Umbu",
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": "X",
+    "image": "/TR2/unmake_unde.jpg",
+    "key": 1561,
+    "name": "Unmake",
+    "normalized_name": "Unmake",
+    "rarity": "R",
+    "regions": ["Underneath", "d'Resh"],
+    "set": "TR2",
+    "text": "Choose a Creature with X energy. Discard the chosen Creature from play. Discard one energy from each Creature in play of the same type as the discarded Creature.",
+    "type": "Spell"
+    },
+{
+    "cost": 7,
+    "effects": [
+        {
+            "name": "Tainted Dreams",
+            "text": "Your Magi may play Core Spells, ignoring regional penalties and restrictions."
+        }
+    ],
+    "image": "/TR2/urhail_unde.jpg",
+    "key": 1562,
+    "name": "Urhail",
+    "normalized_name": "Urhail",
+    "rarity": "U",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "shadow_play": "Underneath",
+    "starting_magi": "Underneath",
+    "text": "Underneath Shadow Magi may play Urhail, ignoring regional penalties and restrictions.",
+    "type": "Creature"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": "Surge",
+            "text": "As you play Vard, if your Magi is Bograth and any opponent has more Creatures in play than you (not counting this card), ignore Vard's cost."
+        },
+        {
+            "name": "Shifty",
+            "text": "Vard loses no energy from opposing Effects."
+        }
+    ],
+    "image": "/TR2/vard_bogr.jpg",
+    "key": 1486,
+    "name": "Vard",
+    "normalized_name": "Vard",
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/vard_stampede_bogr.jpg",
+    "key": 1487,
+    "name": "Vard Stampede",
+    "normalized_name": "Vard_Stampede",
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "text": "Choose any one Magi in play. If you have at least four Bograth Creatures in play, discard all of the chosen Magi's Relics and Spells from play.",
+    "type": "Spell"
+    },
+{
+    "cost": 2,
+    "image": "/TR2/venomous_korrit_unde.jpg",
+    "key": 2068,
+    "name": "Venomous Korrit",
+    "normalized_name": "Venomous_Korrit",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Skulk",
+            "text": "Choose an opposing Underneath Creature and remove one energy from it. That Creature gains \"Effect - Weaken: As this Creature is attacked, remove two energy from it.\" until the end of your next turn."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Underneath"],
+    "set": "TR2",
+    "text": "Venomous Korrit's text cannot be altered.\nCore Magi may play Venomous Korrit.",
+    "type": "Creature"
+    },
+{
+    "cost": 12,
+    "energize": 5,
+    "image": "/TR2/whilp_bogr.jpg",
+    "key": 2069,
+    "name": "Whilp",
+    "normalized_name": "Whilp",
+    "powers": [
+        {
+            "cost": 1,
+            "name": "Plague",
+            "text": "Choose a Creature type. All Creatures of the chosen type lose two energy."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "starting": ["Trulb", "Moss Trulb", "Moss Pendant"],
+    "type": "Magi"
+    },
+{
+    "cost": 15,
+    "effects": [
+        {
+            "name": "Transform",
+            "text": "When you reveal Wiep, if your previous Magi was Baa, place any one Bograth card from your discard pile into your hand."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/wiep_bogr.jpg",
+    "key": 1488,
+    "name": "Wiep",
+    "normalized_name": "Wiep",
+    "powers": [
+        {
+            "cost": 2,
+            "name": "Power Drain",
+            "text": "Choose any Power on an opposing Creature. Move energy equal to the cost of the chosen Power from that Creature to Wiep."
+        }
+    ],
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "starting": ["Deadwood Staff", "Darkness", "Spirit Drain"],
+    "sub type": "The Sniveler",
+    "type": "Magi"
+    },
+{
+    "cost": 2,
+    "effects": [
+        {
+            "name": "Sweet Rot",
+            "text": "If Wither Twee is defeated in an attack, add one energy to each Bograth Creature and draw a card."
+        }
+    ],
+    "image": "/TR2/wither_twee_bogr.jpg",
+    "key": 2070,
+    "name": "Wither Twee",
+    "normalized_name": "Wither_Twee",
+    "rarity": "U",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Creature"
+    },
+{
+    "cost": 10,
+    "effects": [
+        {
+            "name": "Seeds of Deceit",
+            "text": "At the beginning of your turn, choose a Spell or Relic in an opposing discard pile and shuffle it into its owner's deck. Increase Yayek's energize by that card's energy cost until the end of your turn (X equals zero)."
+        }
+    ],
+    "energize": 4,
+    "image": "/TR2/yayek_core.jpg",
+    "key": 2071,
+    "name": "Yayek",
+    "normalized_name": "Yayek",
+    "original_region": "Weave",
+    "rarity": "U",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": ["Drush", "Raveled Drush", "Turn"],
+    "sub type": "Weave Shadow",
+    "type": "Magi"
+    },
+{
+    "cost": 0,
+    "image": "/TR2/yogs_maul_bogr.jpg",
+    "key": 1489,
+    "name": "Yog's Maul",
+    "normalized_name": "Yogs_Maul",
+    "powers": [
+        {
+            "name": "Thump Thump Wham!",
+            "text": "Discard one of your Bograth Creatures from play. Choose any one opposing Creature in play. Discard energy from the chosen Creature equal to the number of your Bograth Creatures in play."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "type": "Relic"
+    },
+{
+    "cost": 12,
+    "effects": [
+        {
+            "name": "Good Riddance",
+            "text": "If Korg is in any player's defeated Magi pile, add three energy to Zet's starting energy."
+        }
+    ],
+    "energize": 6,
+    "image": "/TR2/zet_core.jpg",
+    "key": 1526,
+    "name": "Zet",
+    "normalized_name": "Zet",
+    "powers": [
+        {
+            "cost": "X+4",
+            "name": "Treachery",
+            "text": "Zet gains control of any one Creature in play. X is the amount of energy on that Creature. If the Creature is a non-Core Creature, it loses one energy. The Creature may not attack this turn."
+        }
+    ],
+    "rarity": "R",
+    "regions": ["Core"],
+    "set": "TR2",
+    "starting": ["Terrorize", "Turn", "Koil", "Shadow Cloak"],
+    "type": "Magi"
+    },
+{
+    "cost": 1,
+    "image": "/TR2/zungg_bogr.jpg",
+    "key": 1490,
+    "name": "Zungg",
+    "normalized_name": "Zungg",
+    "powers": [
+        {
+            "name": "Gnaw",
+            "text": "Choose any one opposing Creature in play. Move one energy from the chosen Creature to Zungg."
+        }
+    ],
+    "rarity": "C",
+    "regions": ["Bograth", "Core"],
+    "set": "TR2",
+    "text": "Only Bograth or Core Magi can play Zungg.",
+    "type": "Creature"
+    },
+{
+    "cost": 6,
+    "image": "/TR2/zungg_swarm_bogr.jpg",
+    "key": 1491,
+    "name": "Zungg Swarm",
+    "normalized_name": "Zungg_Swarm",
+    "rarity": "R",
+    "regions": ["Bograth"],
+    "set": "TR2",
+    "text": "Choose any one Magi in play. If you have at least seven Bograth Creatures and seven Core Creatures in play, discard energy equal to the number of your Bograth Creatures in play from all of the chosen Magi's Creatures.",
+    "type": "Spell"
+    },
+{
+    "cost": 14,
+    "effects": [
+        {
+            "name": "Strengthen",
+            "text": "At the end of your turn, add one energy to each of your burrowed and illusionary Creatures that attacked this turn."
+        },
+        {
+            "name": "Escape",
+            "text": "Your burrowed and illusionary Creatures that are discarded from play by opposing cards that specifically discard Creatures from play are instead returned to your hand."
+        }
+    ],
+    "energize": 5,
+    "image": "/TR2/djarvish_unde.jpg",
+    "key": 1995,
+    "name": "d'Jarvish",
+    "normalized_name": "dJarvish",
+    "rarity": "R",
+    "regions": ["Underneath", "d'Resh"],
+    "set": "TR2",
+    "starting": ["Sikra", "Cave Rudwot", "Burrow"],
+    "type": "Magi"
     }
 ]
