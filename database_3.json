@@ -32040,7 +32040,7 @@
         }
     ],
     "energize": 6,
-    "image": "/TR2/all_high_king_korg_core.jpg",
+    "image": "/TR2/all-high_king_korg_core.jpg",
     "key": 1990,
     "name": "All-High King Korg",
     "normalized_name": "All-High_King_Korg",
@@ -34384,7 +34384,7 @@
         }
     ],
     "energize": 6,
-    "image": "/TR2/t_lok_traitor_core.jpg",
+    "image": "/TR2/tlok_traitor_core.jpg",
     "key": 2062,
     "name": "T'lok, Traitor",
     "normalized_name": "Tlok_Traitor",
