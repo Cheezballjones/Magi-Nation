@@ -12487,7 +12487,7 @@
                 "text": "Whenever K'ly attacks a stalked Creature, add one energy to K'ly before energy is removed.\n"
             }
         ],
-        "image": "/cardimages/TR1/Kly_para.jpg",
+        "image": "/cardimages/ND/Kly_para.jpg",
         "key": 1040,
         "name": "K'ly",
         "normalized_name": "Kly",
@@ -12495,7 +12495,7 @@
         "regions": [
             "Paradwyn"
         ],
-        "set": "TR1",
+        "set": "ND",
         "subtype": "Jungle Stalker",
         "type": "Creature"
     },
@@ -12507,7 +12507,7 @@
                 "text": "As you play K'teeb, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn.\n"
             }
         ],
-        "image": "/cardimages/TR1/Kteeb_para.jpg",
+        "image": "/cardimages/ND/kteeb_naro.jpg",
         "key": 1001,
         "name": "K'teeb",
         "normalized_name": "Kteeb",
@@ -12522,7 +12522,7 @@
             "Naroom",
             "Paradwyn"
         ],
-        "set": "TR1",
+        "set": "ND",
         "type": "Creature"
     },
     {
@@ -12533,7 +12533,7 @@
                 "text": "As you play K'teeb, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn.\n"
             }
         ],
-        "image": "/cardimages/ND/Kteeb_PA.jpg",
+        "image": "/cardimages/ND/Kteeb_para.jpg",
         "key": 1041,
         "name": "K'teeb",
         "normalized_name": "Kteeb",
@@ -23638,7 +23638,7 @@
     {
         "cost": 15,
         "energize": 6,
-        "image": "/cardimages/TR1/tdek_naro.jpg",
+        "image": "/cardimages/TR/tdek_naro.jpg",
         "key": 461,
         "name": "T'Dek",
         "normalized_name": "TDek",
@@ -27327,7 +27327,7 @@
                 "text": "If Weave-woven Anklet is discarded from play by an opposing Spell or Power, choose one Weave Spell in your discard pile and add it to your hand.\n"
             }
         ],
-        "image": "/cardimages/TR1/weave-woven_anklet_weav.jpg",
+        "image": "/cardimages/TR/weave-woven_anklet_weav.jpg",
         "key": 516,
         "name": "Weave-woven Anklet",
         "normalized_name": "Weave-woven_Anklet",
@@ -27335,7 +27335,7 @@
         "regions": [
             "Weave"
         ],
-        "set": "TR1",
+        "set": "TR",
         "type": "Relic"
     },
     {
@@ -29896,7 +29896,7 @@
             "text": "Whenever K'ly attacks a stalked Creature, add one energy to K'ly before energy is removed."
         }
     ],
-    "image": "/TR1/k_ly_para.jpg",
+    "image": "/TR1/kly_para.jpg",
     "key": 1393,
     "name": "K'ly",
     "normalized_name": "Kly",
@@ -29914,7 +29914,7 @@
             "text": "As you play K'teeb, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn."
         }
     ],
-    "image": "/TR1/k_teeb_para.jpg",
+    "image": "/TR1/kteeb_para.jpg",
     "key": 1394,
     "name": "K'teeb",
     "normalized_name": "Kteeb",
@@ -31026,7 +31026,7 @@
 {
     "cost": 15,
     "energize": 6,
-    "image": "/TR1/t_dek_naro.jpg",
+    "image": "/TR1/tdek_naro.jpg",
     "key": 2023,
     "name": "T'Dek",
     "normalized_name": "TDek",
@@ -31586,7 +31586,7 @@
             "text": "If Weave-woven Anklet is discarded from play by an opposing Spell or Power, choose one Weave Spell in your discard pile and add it to your hand."
         }
     ],
-    "image": "/TR1/weave_woven_anklet_weav.jpg",
+    "image": "/TR1/weave-woven_anklet_weav.jpg",
     "key": 2033,
     "name": "Weave-woven Anklet",
     "normalized_name": "Weave-woven_Anklet",
