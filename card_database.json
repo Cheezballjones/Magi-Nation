@@ -28797,5 +28797,18 @@
         "set": "VS",
         "subtype": "Arctic",
         "type": "Creature"
+    },
+    {
+    "cost": 4,
+    "image": "/TR1/crushing_roots_naro.jpg",
+    "key": 1347,
+    "name": "Crushing Roots",
+    "normalized_name": "Crushing_Roots",
+    "rarity": "U",
+    "regions": ["Naroom"],
+    "set": "TR1",
+    "shadow_play": "Naroom",
+    "text": "Choose any one Creature in play. Discard four energy from the chosen Creature. If this discards the chosen Creature from play, choose any one of your Creatures in play. Add three energy to that Creature. Only Naroom Magi and Naroom Shadow Magi can play Crushing Roots.",
+    "type": "Spell"
     }
 ]
