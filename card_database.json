@@ -28810,5 +28810,21 @@
     "shadow_play": "Naroom",
     "text": "Choose any one Creature in play. Discard four energy from the chosen Creature. If this discards the chosen Creature from play, choose any one of your Creatures in play. Add three energy to that Creature. Only Naroom Magi and Naroom Shadow Magi can play Crushing Roots.",
     "type": "Spell"
+    },
+    {
+    "cost": 5,
+    "image": "/TR1/elder_weebo_naro.jpg",
+    "key": 1348,
+    "name": "Elder Weebo",
+    "normalized_name": "Elder_Weebo",
+    "powers": [{
+        "cost": 3,
+        "name": "Vitaminize",
+        "text": "Discard Elder Weebo from play. Until the end of your next turn, each of your Naroom Creatures in play with an energize rate has its energize rate increased by two. Each of your other Naroom Creatures in play gains an energize rate of two until the end of your next turn."
+    }],
+    "rarity": "R",
+    "regions": ["Naroom"],
+    "set": "TR1",
+    "type": "Creature"
     }
 ]
