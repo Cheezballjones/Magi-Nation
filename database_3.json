@@ -12487,7 +12487,7 @@
                 "text": "Whenever K'ly attacks a stalked Creature, add one energy to K'ly before energy is removed.\n"
             }
         ],
-        "image": "/cardimages/ND/Kly.jpg",
+        "image": "/cardimages/ND/Kly_para.jpg",
         "key": 1040,
         "name": "K'ly",
         "normalized_name": "Kly",
@@ -12507,7 +12507,7 @@
                 "text": "As you play K'teeb, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn.\n"
             }
         ],
-        "image": "/cardimages/ND/Kteeb_NM.jpg",
+        "image": "/cardimages/ND/Kteeb_para.jpg",
         "key": 1001,
         "name": "K'teeb",
         "normalized_name": "Kteeb",
@@ -23638,7 +23638,7 @@
     {
         "cost": 15,
         "energize": 6,
-        "image": "/cardimages/TR/TDek.jpg",
+        "image": "/cardimages/TR1/tdek_naro.jpg",
         "key": 461,
         "name": "T'Dek",
         "normalized_name": "TDek",
@@ -27327,7 +27327,7 @@
                 "text": "If Weave-woven Anklet is discarded from play by an opposing Spell or Power, choose one Weave Spell in your discard pile and add it to your hand.\n"
             }
         ],
-        "image": "/cardimages/TR/Weave-woven_Anklet.jpg",
+        "image": "/cardimages/TR1/Weave-woven_Anklet.jpg",
         "key": 516,
         "name": "Weave-woven Anklet",
         "normalized_name": "Weave-woven_Anklet",
@@ -27335,7 +27335,7 @@
         "regions": [
             "Weave"
         ],
-        "set": "TR",
+        "set": "TR1",
         "type": "Relic"
     },
     {
@@ -29038,7 +29038,7 @@
         }
     ],
     "energize": 5,
-    "image": "/TR1/bo_ahsa_weav.jpg",
+    "image": "/TR1/boahsa_weav.jpg",
     "key": 1418,
     "name": "Bo'Ahsa",
     "normalized_name": "BoAhsa",
@@ -29056,7 +29056,7 @@
             "text": "Once per turn, when one of your Weave Creatures is attacked, you may discard one energy from your Magi. If you do, choose one of your Weave Creatures in play. Replace the defending Creature with the chosen Creature."
         }
     ],
-    "image": "/TR1/bo_ahsas_shield_weav.jpg",
+    "image": "/TR1/boahsas_shield_weav.jpg",
     "key": 1419,
     "name": "Bo'Ahsa's Shield",
     "normalized_name": "BoAhsas_Shield",
@@ -30220,7 +30220,7 @@
             "text": "As you play N'kala, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn."
         }
     ],
-    "image": "/TR1/n_kala_para.jpg",
+    "image": "/TR1/nkala_para.jpg",
     "key": 1400,
     "name": "N'kala",
     "normalized_name": "Nkala",
@@ -31100,7 +31100,7 @@
             "text": "When an opposing Spell or Power affects your Magi, you may discard Three Leaf Clover from play. If you do, your cards are unaffected by the Spell or Power, and you draw a card."
         }
     ],
-    "image": "/TR1/three_leaf_clover_weav.jpg",
+    "image": "/TR1/three-leaf_clover_weav.jpg",
     "key": 1439,
     "name": "Three-Leaf Clover",
     "normalized_name": "Three-Leaf_Clover",
