@@ -22008,6 +22008,24 @@
         "type": "Creature"
     },
     {
+    "cost": 7,
+    "image": "/KSPR/snag_hyren_weav.jpg",
+    "key": 1959,
+    "name": "Snag Hyren",
+    "normalized_name": "Snag_Hyren",
+    "powers": [
+        {
+            "cost": 3,
+            "name": "Stumble",
+            "text": "Until the beginning of your next turn, opposing Creatures remove two less energy in attacks."
+        }
+    ],
+    "rarity": "P",
+    "regions": ["Weave"],
+    "set": "PR",
+    "type": "Creature"
+    },
+    {
         "cost": 1,
         "image": "/cardimages/VS/Snare.jpg",
         "key": 265,
@@ -24738,6 +24756,56 @@
             "Furok"
         ],
         "type": "Magi"
+    },
+    {
+    "alternate": "Tony Jones",
+    "cost": 11,
+    "effects": [
+        {
+            "name": "Animite Affinity",
+            "text": "Tony may play Creatures as though he were a Magi of any region."
+        }
+    ],
+    "energize": 6,
+    "image": "/KSPR/tony_returned_univ.jpg",
+    "key": 1960,
+    "name": "Tony, Returned",
+    "normalized_name": "Tony_Returned",
+    "powers": [
+        {
+            "cost": "1",
+            "name": "Rediscover",
+            "text": "Play a Relic from any discard pile, paying all costs and ignoring regional restrictions"
+        }
+    ],
+    "rarity": "P",
+    "regions": ["Universal"],
+    "set": "PR",
+    "starting": ["Two Creatures of different regions", "Furok"],
+    "text": "Tony, Returned may be in a Magi stack with Tony Jones. If Tony Jones is among your defeated Magi, when you reveal Tony, Returned, add three energy to Tony, Returned.",
+    "type": "Magi"
+    },
+
+{
+    "alternate": "Rayje",
+    "cost": 16,
+    "effects": [
+        {
+            "name": "Intimidation",
+            "text": "Opposing Powers and Spells remove two less energy from your Creatures."
+        }
+    ],
+    "energize": 5,
+    "image": "/MH1/rayje_legend_univ.jpg",
+    "key": 1569,
+    "name": "Rayje, Legend",
+    "normalized_name": "Rayje_Legend",
+    "rarity": "F",
+    "regions": ["Universal"],
+    "set": "PR",
+    "starting": ["Rayje’s Shield", "Rayje’s Belt", "Rayje's Construct"],
+    "text": "Rayje may play non-Universal Creatures, ignoring regional penalites.",
+    "type": "Magi"
     },
     {
         "cost": 2,
