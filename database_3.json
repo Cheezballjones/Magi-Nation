@@ -15354,7 +15354,7 @@
     },
     {
         "cost": 9,
-        "image": "/cardimages/PR/Monarch_Hyren.jpg",
+        "image": "/cardimages/PR/monarch_hyren_univ.jpg",
         "key": 353,
         "name": "Monarch Hyren",
         "normalized_name": "Monarch_Hyren",
@@ -19007,7 +19007,7 @@
     },
     {
         "cost": 0,
-        "image": "/cardimages/PR/Rayjes_Belt.jpg",
+        "image": "/cardimages/PR/rayjes_belt_univ.jpg",
         "key": 360,
         "name": "Rayje's Belt",
         "normalized_name": "Rayjes_Belt",
@@ -19098,7 +19098,7 @@
                 "text": "Whenever you play a Relic, add one energy to any one Creature in play.\n"
             }
         ],
-        "image": "/cardimages/PR/Rayjes_Construct.jpg",
+        "image": "/cardimages/PR/rayjes_construct_univ.jpg",
         "key": 354,
         "name": "Rayje's Construct",
         "normalized_name": "Rayjes_Construct",
@@ -19139,7 +19139,7 @@
                 "text": "Each time you draw a card, choose one of your Creatures in play. Add one energy to the chosen Creature. You cannot choose a Creature more than once per turn with Leadership.\n"
             }
         ],
-        "image": "/cardimages/PR/Rayjes_Shield.jpg",
+        "image": "/cardimages/PR/Rayjes_Shield_univ.jpg",
         "key": 361,
         "name": "Rayje's Shield",
         "normalized_name": "Rayjes_Shield",
