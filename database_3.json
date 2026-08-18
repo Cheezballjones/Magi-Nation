@@ -1279,7 +1279,7 @@
     },
     {
         "cost": 3,
-        "image": "/PR/atekkias_gift.jpg",
+        "image": "/PR/atekkias_gift_unde.jpg",
         "key": 351,
         "name": "Atekkia's Gift",
         "normalized_name": "Atekkias_Gift",
@@ -4338,7 +4338,7 @@
                 "text": "Whenever Comet Hyren attacks, it removes twice as much energy as it has from the defending Creature.\n"
             }
         ],
-        "image": "/PR/comet_hyren.jpg",
+        "image": "/PR/comet_hyren_arde.jpg",
         "key": 304,
         "name": "Comet Hyren",
         "normalized_name": "Comet_Hyren",
@@ -4377,7 +4377,7 @@
                 "text": "Whenever Coral Pyder attacks a Magi, it removes no energy in the attack. Instead, energize your Magi.\n"
             }
         ],
-        "image": "/PR/coral_pyder.jpg",
+        "image": "/PR/coral_pyder_orot.jpg",
         "key": 340,
         "name": "Coral Pyder",
         "normalized_name": "Coral_Pyder",
@@ -6279,7 +6279,7 @@
                 "text": "If Drush is attacked and defeated, choose any one of the attacking player's Creatures in play. Discard the chosen Creature from play.\n"
             }
         ],
-        "image": "/PR/drush.jpg",
+        "image": "/PR/drush_core.jpg",
         "key": 316,
         "name": "Drush",
         "normalized_name": "Drush",
@@ -6464,7 +6464,7 @@
             }
         ],
         "energize": 6,
-        "image": "/PR/eidon.jpg",
+        "image": "/PR/eidon_naro.jpg",
         "key": 337,
         "name": "Eidon",
         "normalized_name": "Eidon",
