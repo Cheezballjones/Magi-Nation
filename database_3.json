@@ -31582,6 +31582,18 @@
     "set": "TR1",
     "type": "Creature"
     },
+    {
+    "cost": "X+1",
+    "image": "/KSPR/wanderlust_univ.jpg",
+    "key": 1966,
+    "name": "Wanderlust",
+    "normalized_name": "Wanderlust",
+    "rarity": "P",
+    "regions": ["Universal"],
+    "set": "PR",
+    "text": "X is equal to the number of players in this game. Choose a Creature in play. Add one energy to the chosen Creature for each region among cards in play..",
+    "type": "Spell"
+    },
 {
     "cost": 3,
     "effects": [
