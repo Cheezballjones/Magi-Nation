@@ -95,7 +95,7 @@
     },
     {
         "cost": 3,
-        "image": "/cardimages/PR/Abwyns_Gift.jpg",
+        "image": "/PR/Abwyns_Gift_arde.jpg",
         "key": 307,
         "name": "Abwyn's Gift",
         "normalized_name": "Abwyns_Gift",
@@ -1279,7 +1279,7 @@
     },
     {
         "cost": 3,
-        "image": "/cardimages/PR/Atekkias_Gift.jpg",
+        "image": "/PR/Atekkias_Gift.jpg",
         "key": 351,
         "name": "Atekkia's Gift",
         "normalized_name": "Atekkias_Gift",
@@ -1968,7 +1968,7 @@
                 "text": "At the end of your turn, if all Spells in your discard pile are Cald, discard all of your non-Cald cards from play and discard one energy from each opposing Creature in play.\n"
             }
         ],
-        "image": "/cardimages/PR/Baraks_Ring.jpg",
+        "image": "/PR/Baraks_Ring_cald.jpg",
         "key": 314,
         "name": "Barak's Ring",
         "normalized_name": "Baraks_Ring",
@@ -3428,7 +3428,7 @@
     {
         "artist": "Gillete, Goodman",
         "cost": 3,
-        "image": "/cardimages/PR/Bythans_Gift.jpg",
+        "image": "/PR/Bythans_Gift_naro.jpg",
         "key": 339,
         "name": "Bythan's Gift",
         "normalized_name": "Bythans_Gift",
@@ -3924,7 +3924,7 @@
             }
         ],
         "energize": 5,
-        "image": "/cardimages/PR/Chayla.jpg",
+        "image": "/PR/Chayla_naro.jpg",
         "key": 336,
         "name": "Chayla",
         "normalized_name": "Chayla",
@@ -4024,7 +4024,7 @@
                 "text": "Whenever you play a card, discard two energy from Chogus Little. Whenever an opponent plays a card, add two energy to Chogus Little.\n"
             }
         ],
-        "image": "/cardimages/PR/Chogus_Little.jpg",
+        "image": "/PR/Chogus_Little_kyba.jpg",
         "key": 327,
         "name": "Chogus Little",
         "normalized_name": "Chogus_Little",
@@ -4338,7 +4338,7 @@
                 "text": "Whenever Comet Hyren attacks, it removes twice as much energy as it has from the defending Creature.\n"
             }
         ],
-        "image": "/cardimages/PR/Comet_Hyren.jpg",
+        "image": "/PR/Comet_Hyren.jpg",
         "key": 304,
         "name": "Comet Hyren",
         "normalized_name": "Comet_Hyren",
@@ -4377,7 +4377,7 @@
                 "text": "Whenever Coral Pyder attacks a Magi, it removes no energy in the attack. Instead, energize your Magi.\n"
             }
         ],
-        "image": "/cardimages/PR/Coral_Pyder.jpg",
+        "image": "/PR/Coral_Pyder.jpg",
         "key": 340,
         "name": "Coral Pyder",
         "normalized_name": "Coral_Pyder",
@@ -6279,7 +6279,7 @@
                 "text": "If Drush is attacked and defeated, choose any one of the attacking player's Creatures in play. Discard the chosen Creature from play.\n"
             }
         ],
-        "image": "/cardimages/PR/Drush.jpg",
+        "image": "/PR/Drush.jpg",
         "key": 316,
         "name": "Drush",
         "normalized_name": "Drush",
@@ -6464,7 +6464,7 @@
             }
         ],
         "energize": 6,
-        "image": "/cardimages/PR/Eidon.jpg",
+        "image": "/PR/Eidon.jpg",
         "key": 337,
         "name": "Eidon",
         "normalized_name": "Eidon",
@@ -6570,7 +6570,7 @@
     },
     {
         "cost": 1,
-        "image": "/cardimages/PR/Elemental_Shield.jpg",
+        "image": "/PR/Elemental_Shield.jpg",
         "key": 363,
         "name": "Elemental Shield",
         "normalized_name": "Elemental_Shield",
@@ -6616,7 +6616,7 @@
             }
         ],
         "energize": 7,
-        "image": "/cardimages/PR/Emaal.jpg",
+        "image": "/PR/Emaal.jpg",
         "key": 349,
         "name": "Emaal",
         "normalized_name": "Emaal",
@@ -6728,7 +6728,7 @@
                 "text": "When any player plays a Spell, you may discard Ember Vard from play. If you do, choose one of that player's Creatures. Discard five energy from the chosen Creature.\n"
             }
         ],
-        "image": "/cardimages/PR/Ember_Vard_AR.jpg",
+        "image": "/PR/Ember_Vard_AR.jpg",
         "key": 303,
         "name": "Ember Vard",
         "normalized_name": "Ember_Vard",
@@ -6748,7 +6748,7 @@
                 "text": "When any player plays a Spell, you may discard Ember Vard from play. If you do, choose one of that player's Creatures. Discard five energy from the chosen Creature.\n"
             }
         ],
-        "image": "/cardimages/PR/Ember_Vard_CA.jpg",
+        "image": "/PR/Ember_Vard_CA.jpg",
         "key": 310,
         "name": "Ember Vard",
         "normalized_name": "Ember_Vard",
@@ -6845,7 +6845,7 @@
             }
         ],
         "energize": 5,
-        "image": "/cardimages/PR/Empress_Gia_CO.jpg",
+        "image": "/PR/Empress_Gia_CO.jpg",
         "key": 321,
         "name": "Empress Gia",
         "normalized_name": "Empress_Gia",
@@ -6877,7 +6877,7 @@
             }
         ],
         "energize": 5,
-        "image": "/cardimages/PR/Empress_Gia_WV.jpg",
+        "image": "/PR/Empress_Gia_WV.jpg",
         "key": 368,
         "name": "Empress Gia",
         "normalized_name": "Empress_Gia",
@@ -8105,7 +8105,7 @@
                 "text": "Whenever a Spell or Power adds energy to Forest Hyren, add an additional energy to Forest Hyren.\n"
             }
         ],
-        "image": "/cardimages/PR/Forest_Hyren.jpg",
+        "image": "/PR/Forest_Hyren.jpg",
         "key": 332,
         "name": "Forest Hyren",
         "normalized_name": "Forest_Hyren",
@@ -8465,7 +8465,7 @@
                 "text": "If you do not have at least one other Bograth and one other Naroom Creature in play, discard Furlosk from play.\n"
             }
         ],
-        "image": "/cardimages/PR/Furlosk_BG.jpg",
+        "image": "/PR/Furlosk_BG.jpg",
         "key": 309,
         "name": "Furlosk",
         "normalized_name": "Furlosk",
@@ -8493,7 +8493,7 @@
                 "text": "If you do not have at least one other Bograth and one other Naroom Creature in play, discard Furlosk from play.\n"
             }
         ],
-        "image": "/cardimages/PR/Furlosk_NM.jpg",
+        "image": "/PR/Furlosk_NM.jpg",
         "key": 333,
         "name": "Furlosk",
         "normalized_name": "Furlosk",
@@ -8768,7 +8768,7 @@
     },
     {
         "cost": 2,
-        "image": "/cardimages/PR/Gauntlets_of_Colossal_Power.jpg",
+        "image": "/PR/Gauntlets_of_Colossal_Power.jpg",
         "key": 359,
         "name": "Gauntlets of Colossal Power",
         "normalized_name": "Gauntlets_of_Colossal_Power",
@@ -8864,7 +8864,7 @@
 
         "cost": 16,
         "energize": 5,
-        "image": "/cardimages/PR/Gia.jpg",
+        "image": "/PR/Gia.jpg",
         "key": 369,
         "name": "Gia",
         "normalized_name": "Gia",
@@ -8896,7 +8896,7 @@
                 "text": "All players draw one less card during their Draw Step.\n"
             }
         ],
-        "image": "/cardimages/PR/Gia_Pet.jpg",
+        "image": "/PR/Gia_Pet.jpg",
         "key": 317,
         "name": "Gia Pet",
         "normalized_name": "Gia_Pet",
@@ -9201,7 +9201,7 @@
                 "text": "As you play Glade Hyren, you may discard a card from your hand. If you do, reduce Glade Hyren's cost by one for each of your other Naroom Creatures in play, to a minimum of one.\n"
             }
         ],
-        "image": "/cardimages/PR/Glade_Hyren.jpg",
+        "image": "/PR/Glade_Hyren.jpg",
         "key": 334,
         "name": "Glade Hyren",
         "normalized_name": "Glade_Hyren",
@@ -9453,7 +9453,7 @@
     },
     {
         "cost": 3,
-        "image": "/cardimages/PR/Gorgles_Gift.jpg",
+        "image": "/PR/Gorgles_Gift.jpg",
         "key": 315,
         "name": "Gorgle's Gift",
         "normalized_name": "Gorgles_Gift",
@@ -9546,7 +9546,7 @@
                 "text": "If you have another Creature in play, Gragling gains 'ENERGIZE: 1'.\n"
             }
         ],
-        "image": "/cardimages/PR/Gragling.jpg",
+        "image": "/PR/Gragling.jpg",
         "key": 318,
         "name": "Gragling",
         "normalized_name": "Gragling",
@@ -9596,7 +9596,7 @@
                 "text": "Once per turn, as an opposing player plays a Spell, you may discard three energy from Grakanden to cancel all effects of that Spell. Return the Spell to that player's hand at the end of the turn.\n"
             }
         ],
-        "image": "/cardimages/PR/Grakanden.jpg",
+        "image": "/PR/Grakanden.jpg",
         "key": 346,
         "name": "Grakanden",
         "normalized_name": "Grakanden",
@@ -11863,7 +11863,7 @@
     },
     {
         "cost": 6,
-        "image": "/cardimages/PR/Inferno_Xyx.jpg",
+        "image": "/PR/Inferno_Xyx.jpg",
         "key": 311,
         "name": "Inferno Xyx",
         "normalized_name": "Inferno_Xyx",
@@ -12169,7 +12169,7 @@
     {
         "cost": 14,
         "energize": 6,
-        "image": "/cardimages/PR/Jalex.jpg",
+        "image": "/PR/Jalex.jpg",
         "key": 322,
         "name": "Jalex",
         "normalized_name": "Jalex",
@@ -12715,7 +12715,7 @@
                 "text": "At the end of your turn, if all Spells in your discard pile are Arderial, discard all of your non-Arderial cards from play and choose any one non-Arderial Creature in play with three or less energy. Discard the chosen Creature from play.\n"
             }
         ],
-        "image": "/cardimages/PR/Kalius_Ring.jpg",
+        "image": "/PR/Kalius_Ring.jpg",
         "key": 306,
         "name": "Kalius' Ring",
         "normalized_name": "Kalius_Ring",
@@ -12892,7 +12892,7 @@
             }
         ],
         "energize": 5,
-        "image": "/cardimages/PR/Kayliel.jpg",
+        "image": "/PR/Kayliel.jpg",
         "key": 342,
         "name": "Kayliel",
         "normalized_name": "Kayliel",
@@ -13351,7 +13351,7 @@
             }
         ],
         "energize": 6,
-        "image": "/cardimages/PR/Korg.jpg",
+        "image": "/PR/Korg.jpg",
         "key": 323,
         "name": "Korg",
         "normalized_name": "Korg",
@@ -13706,7 +13706,7 @@
     },
     {
         "cost": 3,
-        "image": "/cardimages/PR/Kybars_Gift.jpg",
+        "image": "/PR/Kybars_Gift.jpg",
         "key": 331,
         "name": "Kybar's Gift",
         "normalized_name": "Kybars_Gift",
@@ -14178,7 +14178,7 @@
             }
         ],
         "energize": 5,
-        "image": "/cardimages/PR/League_Elder.jpg",
+        "image": "/PR/League_Elder.jpg",
         "key": 355,
         "name": "League Elder",
         "normalized_name": "League_Elder",
@@ -15354,7 +15354,7 @@
     },
     {
         "cost": 9,
-        "image": "/cardimages/PR/monarch_hyren_univ.jpg",
+        "image": "/PR/monarch_hyren_univ.jpg",
         "key": 353,
         "name": "Monarch Hyren",
         "normalized_name": "Monarch_Hyren",
@@ -15410,7 +15410,7 @@
                 "text": "When you play Monsoon Hyren, move one energy from each of your other Creatures in play to Monsoon Hyren.\n"
             }
         ],
-        "image": "/cardimages/PR/Monsoon_Hyren.jpg",
+        "image": "/PR/Monsoon_Hyren.jpg",
         "key": 341,
         "name": "Monsoon Hyren",
         "normalized_name": "Monsoon_Hyren",
@@ -15497,7 +15497,7 @@
     {
 
         "cost": 3,
-        "image": "/cardimages/PR/Morags_Gift.jpg",
+        "image": "/PR/Morags_Gift.jpg",
         "key": 326,
         "name": "Morag's 'Gift'",
         "normalized_name": "Morags_Gift",
@@ -16032,7 +16032,7 @@
                 "text": "At the end of your turn, if all Spells in your discard pile are Core, discard each of your non-Core cards from play and choose any Magi. Move up to two energy from the chosen Magi to your Magi.\n"
             }
         ],
-        "image": "/cardimages/PR/Nagsis_Sigil.jpg",
+        "image": "/PR/Nagsis_Sigil.jpg",
         "key": 325,
         "name": "Nagsis' Sigil",
         "normalized_name": "Nagsis_Sigil",
@@ -16194,7 +16194,7 @@
             }
         ],
         "energize": 5,
-        "image": "/cardimages/PR/Niffer.jpg",
+        "image": "/PR/Niffer.jpg",
         "key": 301,
         "name": "Niffer",
         "normalized_name": "Niffer",
@@ -16272,7 +16272,7 @@
     },
     {
         "cost": 7,
-        "image": "/cardimages/PR/Nightmare_Hyren.jpg",
+        "image": "/PR/Nightmare_Hyren.jpg",
         "key": 319,
         "name": "Nightmare Hyren",
         "normalized_name": "Nightmare_Hyren",
@@ -16292,7 +16292,7 @@
     },
     {
         "cost": 2,
-        "image": "/cardimages/PR/Nightmares_Dawn.jpg",
+        "image": "/PR/Nightmares_Dawn.jpg",
         "key": 364,
         "name": "Nightmare's Dawn",
         "normalized_name": "Nightmares_Dawn",
@@ -16990,7 +16990,7 @@
                 "text": "Oranragan loses one less energy in attacks."
             }
         ],
-        "image": "/cardimages/PR/Oranragan_KT.jpg",
+        "image": "/PR/Oranragan_KT.jpg",
         "key": 328,
         "name": "Oranragan",
         "normalized_name": "Oranragan",
@@ -17018,7 +17018,7 @@
                 "text": "Oranragan loses one less energy in attacks."
             }
         ],
-        "image": "/cardimages/PR/Oranragan_PA.jpg",
+        "image": "/PR/Oranragan_PA.jpg",
         "key": 345,
         "name": "Oranragan",
         "normalized_name": "Oranragan",
@@ -17182,7 +17182,7 @@
                 "text": "At the end of your turn, if all Spells in your discard pile are Orothe, discard all of your non-Orothe cards from play and add one energy to your Magi for each Orothe Relic you have in play.\n"
             }
         ],
-        "image": "/cardimages/PR/Orlons_Ring.jpg",
+        "image": "/PR/Orlons_Ring.jpg",
         "key": 343,
         "name": "Orlon's Ring",
         "normalized_name": "Orlons_Ring",
@@ -17196,7 +17196,7 @@
     },
     {
         "cost": 10,
-        "image": "/cardimages/PR/Ormagon_unde.jpg",
+        "image": "/PR/Ormagon_unde.jpg",
         "key": 347,
         "name": "Ormagon",
         "normalized_name": "Ormagon",
@@ -17464,7 +17464,7 @@
                 "text": "At the end of your turn, if all Spells in your discard pile are Naroom, discard all of your non-Naroom cards from play and add one energy to each of your Creatures in play.\n"
             }
         ],
-        "image": "/cardimages/PR/Orwins_Ring.jpg",
+        "image": "/PR/Orwins_Ring.jpg",
         "key": 338,
         "name": "Orwin's Ring",
         "normalized_name": "Orwins_Ring",
@@ -17540,7 +17540,7 @@
     {
         "artist": "Gillette, Shreve",
         "cost": 3,
-        "image": "/cardimages/PR/Owindas_Gift.jpg",
+        "image": "/PR/Owindas_Gift_orot.jpg",
         "key": 344,
         "name": "Owinda's Gift",
         "normalized_name": "Owindas_Gift",
@@ -17835,7 +17835,7 @@
                 "text": "Opposing Creatures with less energy than Phosphor Hyren cannot attack your non-Hyren Underneath Creatures. Phosphor Hyren cannot be burrowed.\n"
             }
         ],
-        "image": "/cardimages/PR/Phosphor_Hyren.jpg",
+        "image": "/PR/Phosphor_Hyren_unde.jpg",
         "key": 348,
         "name": "Phosphor Hyren",
         "normalized_name": "Phosphor_Hyren",
@@ -18206,7 +18206,7 @@
     {
         "artist": "Werner, Gillete, Goodman",
         "cost": 11,
-        "image": "/cardimages/PR/Power_of_the_Creators.jpg",
+        "image": "/PR/Power_of_the_Creators_univ.jpg",
         "key": 365,
         "name": "Power of the Creators",
         "normalized_name": "Power_of_the_Creators",
@@ -18426,7 +18426,7 @@
             }
         ],
         "energize": 5,
-        "image": "/cardimages/PR/Pyte.jpg",
+        "image": "/PR/Pyte_cald.jpg",
         "key": 313,
         "name": "Pyte",
         "normalized_name": "Pyte",
@@ -18661,7 +18661,7 @@
         "artist": "Vega, Goodman",
         "cost": 3,
         "energize": 2,
-        "image": "/cardimages/PR/Rabbage.jpg",
+        "image": "/PR/Rabbage_naro.jpg",
         "key": 335,
         "name": "Rabbage",
         "normalized_name": "Rabbage",
@@ -19007,7 +19007,7 @@
     },
     {
         "cost": 0,
-        "image": "/cardimages/PR/rayjes_belt_univ.jpg",
+        "image": "/PR/rayjes_belt_univ.jpg",
         "key": 360,
         "name": "Rayje's Belt",
         "normalized_name": "Rayjes_Belt",
@@ -19098,7 +19098,7 @@
                 "text": "Whenever you play a Relic, add one energy to any one Creature in play.\n"
             }
         ],
-        "image": "/cardimages/PR/rayjes_construct_univ.jpg",
+        "image": "/PR/rayjes_construct_univ.jpg",
         "key": 354,
         "name": "Rayje's Construct",
         "normalized_name": "Rayjes_Construct",
@@ -19139,7 +19139,7 @@
                 "text": "Each time you draw a card, choose one of your Creatures in play. Add one energy to the chosen Creature. You cannot choose a Creature more than once per turn with Leadership.\n"
             }
         ],
-        "image": "/cardimages/PR/Rayjes_Shield_univ.jpg",
+        "image": "/PR/Rayjes_Shield_univ.jpg",
         "key": 361,
         "name": "Rayje's Shield",
         "normalized_name": "Rayjes_Shield",
@@ -19268,7 +19268,7 @@
     },
     {
         "cost": 2,
-        "image": "/cardimages/PR/Rejuvenate.jpg",
+        "image": "/PR/Rejuvenate_univ.jpg",
         "key": 366,
         "name": "Rejuvenate",
         "normalized_name": "Rejuvenate",
@@ -21497,7 +21497,7 @@
             }
         ],
         "energize": 5,
-        "image": "/cardimages/PR/Shivara.jpg",
+        "image": "/PR/Shivara_arde.jpg",
         "key": 302,
         "name": "Shivara",
         "normalized_name": "Shivara",
@@ -21557,7 +21557,7 @@
     {
         "artist": "Goodman",
         "cost": 5,
-        "image": "/cardimages/PR/Shockwave_arde.jpg",
+        "image": "/PR/Shockwave_arde.jpg",
         "key": 308,
         "name": "Shockwave",
         "normalized_name": "Shockwave",
@@ -23212,7 +23212,7 @@
                 "text": "At the end of your turn, if all Spells in your discard pile are Underneath, discard all of your non-Underneath cards from play and choose any one Creature in play. Until the end of your next turn, the chosen Creature is considered burrowed; it cannot attack and loses no more than two energy per turn from attacks and opposing Spells and Powers.\n"
             }
         ],
-        "image": "/cardimages/PR/Strags_Ring.jpg",
+        "image": "/PR/Strags_Ring_unde.jpg",
         "key": 350,
         "name": "Strag's Ring",
         "normalized_name": "Strags_Ring",
@@ -23989,7 +23989,7 @@
                 "text": "When Tempest Hyren attacks, you may play one Arderial Spell from your hand. All energy costs for the chosen Spell are paid for by Tempest Hyren instead of your Magi. Reduce the energy cost of the Spell by two, to a minimum of one.\n"
             }
         ],
-        "image": "/cardimages/PR/Tempest_Hyren.jpg",
+        "image": "/PR/Tempest_Hyren_arde.jpg",
         "key": 305,
         "name": "Tempest Hyren",
         "normalized_name": "Tempest_Hyren",
@@ -24069,7 +24069,7 @@
         "alternate": "Hrada",
         "cost": 26,
         "energize": 7,
-        "image": "/cardimages/PR/The_Dark_Twins.jpg",
+        "image": "/PR/The_Dark_Twins_core.jpg",
         "key": 320,
         "name": "The Dark Twins",
         "normalized_name": "The_Dark_Twins",
@@ -24156,7 +24156,7 @@
             }
         ],
         "energize": 6,
-        "image": "/cardimages/PR/The_Prankster.jpg",
+        "image": "/PR/The_Prankster_kyba.jpg",
         "key": 329,
         "name": "The Prankster",
         "normalized_name": "The_Prankster",
@@ -24392,7 +24392,7 @@
     {
         "artist": "Gillette, Shreve",
         "cost": "X",
-        "image": "/cardimages/PR/Thunderquake.jpg",
+        "image": "/PR/Thunderquake_unde.jpg",
         "key": 352,
         "name": "Thunderquake",
         "normalized_name": "Thunderquake",
@@ -24686,7 +24686,7 @@
         "artist": "Werner, Cook, Holmberg",
         "cost": 12,
         "energize": 5,
-        "image": "/cardimages/PR/Tony_At_A_Con.jpg",
+        "image": "/PR/Tony_At_A_Con_univ.jpg",
         "key": 356,
         "name": "Tony At A Con",
         "normalized_name": "Tony_At_A_Con",
@@ -24718,7 +24718,7 @@
             }
         ],
         "energize": 5,
-        "image": "/cardimages/PR/Tony_Jones.jpg",
+        "image": "/PR/Tony_Jones_univ.jpg",
         "key": 357,
         "name": "Tony Jones",
         "normalized_name": "Tony_Jones",
@@ -25470,7 +25470,7 @@
     {
         "cost": 12,
         "energize": 6,
-        "image": "/cardimages/PR/Tuku.jpg",
+        "image": "/PR/Tuku_univ.jpg",
         "key": 358,
         "name": "Tuku",
         "normalized_name": "Tuku",
@@ -25828,7 +25828,7 @@
                 "text": "At the end of your turn, if all Spells in your discard pile are Kybar's Teeth, discard each of your non-Kybar's Teeth cards from play and choose an opposing Magi. Until the beginning of your next turn, each of that Magi's Creatures cost one additional energy to play.\n"
             }
         ],
-        "image": "/cardimages/PR/Ulligs_Ring.jpg",
+        "image": "/PR/Ulligs_Ring_kyba.jpg",
         "key": 330,
         "name": "Ullig's Ring",
         "normalized_name": "Ulligs_Ring",
@@ -26701,7 +26701,7 @@
     },
     {
         "cost": 2,
-        "image": "/cardimages/PR/Voice_of_the_Storms.jpg",
+        "image": "/PR/Voice_of_the_Storms_univ.jpg",
         "key": 367,
         "name": "Voice of the Storms",
         "normalized_name": "Voice_of_the_Storms",
@@ -26740,7 +26740,7 @@
     },
     {
         "cost": 7,
-        "image": "/cardimages/PR/Volcano_Hyren.jpg",
+        "image": "/PR/Volcano_Hyren_cald.jpg",
         "key": 312,
         "name": "Volcano Hyren",
         "normalized_name": "Volcano_Hyren",
@@ -27046,7 +27046,7 @@
     {
         "artist": "Werner, Goodman",
         "cost": 0,
-        "image": "/cardimages/PR/Warriors_Boots.jpg",
+        "image": "/PR/Warriors_Boots_univ.jpg",
         "key": 362,
         "name": "Warrior's Boots",
         "normalized_name": "Warriors_Boots",
@@ -28717,7 +28717,7 @@
             }
         ],
         "energize": 6,
-        "image": "/cardimages/PR/Zet.jpg",
+        "image": "/PR/Zet_core.jpg",
         "key": 324,
         "name": "Zet",
         "normalized_name": "Zet",
