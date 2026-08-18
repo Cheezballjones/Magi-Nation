@@ -17196,7 +17196,7 @@
     },
     {
         "cost": 10,
-        "image": "/PR/Ormagon_unde.jpg",
+        "image": "/PR/ormagon_unde.jpg",
         "key": 347,
         "name": "Ormagon",
         "normalized_name": "Ormagon",
@@ -19139,7 +19139,7 @@
                 "text": "Each time you draw a card, choose one of your Creatures in play. Add one energy to the chosen Creature. You cannot choose a Creature more than once per turn with Leadership.\n"
             }
         ],
-        "image": "/PR/Rayjes_Shield_univ.jpg",
+        "image": "/PR/rayjes_shield_univ.jpg",
         "key": 361,
         "name": "Rayje's Shield",
         "normalized_name": "Rayjes_Shield",
@@ -21555,9 +21555,8 @@
         "type": "Creature"
     },
     {
-        "artist": "Goodman",
         "cost": 5,
-        "image": "/PR/Shockwave_arde.jpg",
+        "image": "/PR/shockwave_arde.jpg",
         "key": 308,
         "name": "Shockwave",
         "normalized_name": "Shockwave",
