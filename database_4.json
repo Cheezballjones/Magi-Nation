@@ -31934,12 +31934,10 @@
     "text": 'The first time each turn that you would reveal Shadow Empress, if she is not your last Magi, instead of retrieving her starting cards, place her face down on the bottom of your Magi stack and reveal your next Magi instead. If that Magi is Hrada or Agram, add "Secrets of the Book" or "one Shadow Geyser" to his starting cards.',
     "effects": [{
         "name": "Treacherous Bargain",
-        "text": "When you play a Spell, add one energy to Shadow Empress unless any opponent removes one energy from their Magi or one of their Creatures in play.
-"
+        "text": "When you play a Spell, add one energy to Shadow Empress unless any opponent removes one energy from their Magi or one of their Creatures in play."
     }, {
         "name": "Mastery of Shadows",
-        "text": "Shadow Empress may play Spells as though she were Agram and your Spells in play treat her as though she were Agram.
-"
+        "text": "Shadow Empress may play Spells as though she were Agram and your Spells in play treat her as though she were Agram."
     }],
     "energize": 6,
     "image": "https://mndworkbench.com/card_images/KSPR/shadow_empress_core.jpg",
