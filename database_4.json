@@ -41,7 +41,41 @@
         "set": "BS",
         "type": "Creature"
     },
-    
+    {
+    "cost": 2,
+    "key": 1342,
+    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Universal/Traitor%27s%20Reach.png",
+    "name": "Traitor's Reach",
+    "normalized_name": "Traitors_Reach",
+    "rarity": "P",
+    "regions": ["Universal"],
+    "set": "PR",
+    "text": "Choose a Creature and a Magi controlled by the same player. If the chosen Creature does not share a region with the chosen Magi, discard that Creature from play and remove two energy from that Magi.",
+    "type": "Spell"
+    },    
+    {
+    "cost": 3,
+    "key": 1716,
+    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Core/JINGJACK.png",
+    "name": "Jingjack",
+    "normalized_name": "Jingjack",
+    "powers": [{
+        "cost": 1,
+        "name": "Spring Forth",
+        "text": "Add three energy to Jingjack. If Jingjack is a relic, it becomes a creature. At the end of the turn, discard Jingjack from play."
+    }],
+    "effects": [{
+        "name": "Spring Out",
+        "text": "When your magi is attacked directly, you may play Jingjack from your hand, paying all costs. Jingjack replaces your magi in the attack."
+    }, {
+        "name": "Spring Back",
+        "text": "If Jingjack is defeated in an attack, it becomes a relic instead of being discarded."
+    }],
+    "rarity": "F",
+    "regions": ["Core"],
+    "set": "PR",
+    "type": "Creature"
+    },
     {
     "alt_play": "d'Resh",
     "cost": 7,
