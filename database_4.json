@@ -42,6 +42,36 @@
         "type": "Creature"
     },
     {
+    "cost": 12,
+    "effects": [
+        {
+            "name": "Treacherous Bargain",
+            "text": "When you play a Spell, add one energy to Shadow Empress unless any opponent removes one energy from their Magi or one of their Creatures in play.\n"
+        },
+        {
+            "name": "Mastery of Shadows",
+            "text": "Shadow Empress may play Spells as though she were Agram and your Spells in play treat her as though she were Agram.\n"
+        }
+    ],
+    "energize": 6,
+    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Core/SHADOW%20EMPRESS.png",
+    "text": "The first time each turn that you would reveal Shadow Empress, if she is not your last Magi, instead of retrieving her starting cards, place her face down on the bottom of your Magi stack and reveal your next Magi instead. If that Magi is Hrada or Agram, add \"Secrets of the Book\" or \"one Shadow Geyser\" to his starting cards.",
+    "key": 1956,
+    "name": "Shadow Empress",
+    "normalized_name": "Shadow_Empress",
+    "rarity": "P",
+    "regions": [
+        "Core"
+    ],
+    "set": "PR",
+    "starting": [
+        "Nightmare Construct",
+        "Traitor's Reach"
+    ],
+    "subtype": "Naroom Shadow",
+    "type": "Magi"
+    },
+    {
         "artist": "Werner, Cook, Goodman",
         "cost": 12,
         "effects": [
