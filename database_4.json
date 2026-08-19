@@ -41,6 +41,29 @@
         "set": "BS",
         "type": "Creature"
     },
+    
+    {
+    "alt_play": "d'Resh",
+    "cost": 7,
+    "effects": [{
+        "name": "Dream Inhibitor",
+        "text": "Powers on opposing Core Creatures cost two extra energy."
+    }],
+    "key": 1344,
+    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Core/TWILIGHT%20MOWAT%20(Limited).png",
+    "name": "Twilight Mowat",
+    "normalized_name": "Twilight_Mowat",
+    "powers": [{
+        "cost": 1,
+        "name": "Dark Sands",
+        "text": "Choose an opposing Creature. That Creature is Core until the beginning of your next turn."
+    }],
+    "rarity": "P",
+    "regions": ["Core", "d'Resh"],
+    "set": "PR",
+    "text": "Only Core and d'Resh Magi may play Twilight Mowat.",
+    "type": "Creature"
+    },
     {
     "cost": 12,
     "effects": [
