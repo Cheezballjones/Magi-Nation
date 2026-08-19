@@ -31930,6 +31930,31 @@
         "type": "Creature"
     },
     {
+    "cost": 12,
+    "text": 'The first time each turn that you would reveal Shadow Empress, if she is not your last Magi, instead of retrieving her starting cards, place her face down on the bottom of your Magi stack and reveal your next Magi instead. If that Magi is Hrada or Agram, add "Secrets of the Book" or "one Shadow Geyser" to his starting cards.',
+    "effects": [{
+        "name": "Treacherous Bargain",
+        "text": "When you play a Spell, add one energy to Shadow Empress unless any opponent removes one energy from their Magi or one of their Creatures in play.
+"
+    }, {
+        "name": "Mastery of Shadows",
+        "text": "Shadow Empress may play Spells as though she were Agram and your Spells in play treat her as though she were Agram.
+"
+    }],
+    "energize": 6,
+    "image": "https://mndworkbench.com/card_images/KSPR/shadow_empress_core.jpg",
+    "key": 1956,
+    "name": "Shadow Empress",
+    "normalized_name": "Shadow_Empress",
+    "rarity": "P",
+    "regions": ["Core"],
+    "subtype": "Naroom Shadow",
+    "alternate": "Warrada",
+    "set": "PR",
+    "starting": ["Nightmare Construct", "Traitor's Reach"],
+    "type": "Magi"
+},
+    {
         "cost": 1,
         "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Weave/Weave%20Maul.png",
         "key": 2032,
