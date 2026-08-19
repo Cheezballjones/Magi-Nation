@@ -54,7 +54,7 @@
         }
     ],
     "energize": 6,
-    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Core/SHADOW%20EMPRESS.png",
+    "image": "https://github.com/Cheezballjones/Magi-Nation/blob/main/card_images/Core/SHADOW%20EMPRESS.png?raw=true",
     "text": "The first time each turn that you would reveal Shadow Empress, if she is not your last Magi, instead of retrieving her starting cards, place her face down on the bottom of your Magi stack and reveal your next Magi instead. If that Magi is Hrada or Agram, add 'Secrets of the Book' or one 'Shadow Geyser' to his starting cards.",
     "key": 1956,
     "name": "Shadow Empress",
