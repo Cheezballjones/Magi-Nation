@@ -31931,7 +31931,7 @@
     },
     {
     "cost": 12,
-    "text": 'The first time each turn that you would reveal Shadow Empress, if she is not your last Magi, instead of retrieving her starting cards, place her face down on the bottom of your Magi stack and reveal your next Magi instead. If that Magi is Hrada or Agram, add "Secrets of the Book" or "one Shadow Geyser" to his starting cards.',
+    "text": "The first time each turn that you would reveal Shadow Empress, if she is not your last Magi, instead of retrieving her starting cards, place her face down on the bottom of your Magi stack and reveal your next Magi instead. If that Magi is Hrada or Agram, add "Secrets of the Book" or "one Shadow Geyser" to his starting cards.",
     "effects": [{
         "name": "Treacherous Bargain",
         "text": "When you play a Spell, add one energy to Shadow Empress unless any opponent removes one energy from their Magi or one of their Creatures in play."
