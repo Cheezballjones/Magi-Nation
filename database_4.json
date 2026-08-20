@@ -333,7 +333,7 @@
                 "text": "After Artimillies is defeated, add two energy to each of your Magi after they are revealed. If they are a Keeper add an additional energy."
             }
         ],
-        "image": "/cardimages/AW/abwyns_quill.jpg",
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Naroom/ARTIMILLIES.png",
         "key": 1934,
         "name": "Artimillies",
         "normalized_name": "Artimillies",
@@ -341,7 +341,7 @@
         "regions": [
             "Naroom"
         ],
-        "set": "PR",
+        "set": "KSPR",
         "type": "Magi"
     },
     {
