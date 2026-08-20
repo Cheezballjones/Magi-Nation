@@ -23,6 +23,60 @@
         "type": "Creature"
     },
     {
+    "cost": 12,
+    "effects": [
+        {
+            "name": "Dream Block",
+            "text": "Players may not use Powers on Creatures.\n"
+        }
+    ],
+    "energize": 5,
+    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Arderial/SORREAH%2C%20WARRIOR%20(Limited).png",
+    "key": 1341,
+    "name": "Sorreah, Warrior",
+    "normalized_name": "Sorreah_Warrior",
+    "rarity": "P",
+    "regions": ["Arderial"],
+    "set": "PR",
+    "starting": ["[Two different Arderial Spells]"],
+    "type": "Magi"
+    },
+    {
+    "cost": 7,
+    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Nar/TUNDRA%20HYREN%20(Limited).png",
+    "key": 1343,
+    "name": "Tundra Hyren",
+    "normalized_name": "Tundra_Hyren",
+    "powers": [
+        {
+            "cost": 3,
+            "name": "Freeze",
+            "text": "Choose an opposing Magi. That Magi's Creatures are Frozen until the beginning of your next turn. Powers of Frozen cards cost one extra energy to use.\n"
+        }
+    ],
+    "rarity": "P",
+    "regions": ["Nar"],
+    "set": "PR",
+    "type": "Creature"
+    },
+    {
+    "cost": 7,
+    "effects": [
+        {
+            "name": "Pierce",
+            "text": "As Cactus Hyren attacks a Creature with six or more energy,\nremove three energy from that Creature.\n"
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/d%27Resh/CACTUS%20HYREN.png",
+    "key": 1567,
+    "name": "Cactus Hyren",
+    "normalized_name": "Cactus_Hyren",
+    "rarity": "P",
+    "regions": ["d'Resh"],
+    "set": "PR",
+    "type": "Creature"
+    },
+    {
     "cost": 7,
     "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Paradwyn/CANOPY%20HYREN%20(Limited).png",
     "key": 1338,
