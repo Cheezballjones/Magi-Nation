@@ -36534,5 +36534,290 @@
         ],
         "set": "KSPR",
         "type": "Relic"
+    },
+    {
+        "cost": 12,
+        "energize": 6,
+        "starting": [
+            "Baby Furok",
+            "Moga Boots",
+            "Cleansing"
+        ],
+        "text": "Anastasia ignores regional penalties on Naroom cards.",
+        "effects": [
+            {
+                "name": "Adorable",
+                "text": "The first opposing Spell, Power, Effect, or attack that would remove energy from Anastasia each turn removes no energy.\n"
+            },
+            {
+                "name": "Scream",
+                "text": "Once per turn, as an opponent plays a Spell, you may discard three energy from Anastasia to cancel all effects of that Spell. Return that Spell to its owner's hand at the end of the turn.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Kybar%27s%20Teeth/ANASTASIA%20%28Limited%29.png",
+        "key": 1933,
+        "name": "Anastasia",
+        "normalized_name": "Anastasia",
+        "rarity": "P",
+        "regions": [
+            "Kybar's Teeth"
+        ],
+        "set": "KSPR",
+        "type": "Magi"
+    },
+    {
+        "cost": 3,
+        "effects": [
+            {
+                "name": "Celestial Memory",
+                "text": "When you play Caboodle Kit, you may place a spell with energy cost 1 or less from your discard pile into your hand.\n"
+            },
+            {
+                "name": "Curious",
+                "text": "Whenever you play a spell with energy cost 1 or less, add one energy to Caboodle Kit.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Arderial/CABOODLE%20KIT.png",
+        "key": 1936,
+        "name": "Caboodle Kit",
+        "normalized_name": "Caboodle_Kit",
+        "rarity": "P",
+        "regions": [
+            "Arderial"
+        ],
+        "set": "KSPR",
+        "type": "Creature"
+    },
+    {
+        "cost": 13,
+        "energize": 5,
+        "subtype": "Historian",
+        "starting": [
+            "Husp",
+            "Crushing Surf"
+        ],
+        "powers": [
+            {
+                "name": "Shifting Tides",
+                "cost": "0",
+                "text": "Choose an opponent. Look at the top two cards of that opponent's deck. You may discard one of these cards, or put them back on top of the deck in any order.\n"
+            },
+            {
+                "name": "Wash Ashore",
+                "cost": "0",
+                "text": "Search an oppent's discard pile for any one card that was discarded this turn. Play the chosen card, ignoring regional restrictions. Creatures played this way cannot attack this turn.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Orothe/CHELON.png",
+        "key": 1939,
+        "name": "Chelon",
+        "normalized_name": "Chelon",
+        "rarity": "P",
+        "regions": [
+            "Orothe"
+        ],
+        "set": "KSPR",
+        "type": "Magi"
+    },
+    {
+        "cost": 12,
+        "energize": 6,
+        "starting": [
+            "Agovo",
+            "Bottomless Pit",
+            "Tomorrow's Jewel"
+        ],
+        "powers": [
+            {
+                "name": "Excavate",
+                "cost": "3",
+                "text": "Reveal the top three cards of your deck. You may choose up to one Creature, up to one Relic, and up to one Spell from the revealed cards and place them into your hand. Place any remaining cards into your discard pile.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Underneath/GEOH.png",
+        "key": 1942,
+        "name": "Geoh",
+        "normalized_name": "Geoh",
+        "rarity": "P",
+        "regions": [
+            "Underneath"
+        ],
+        "set": "KSPR",
+        "type": "Magi"
+    },
+    {
+        "cost": 14,
+        "powers": [
+            {
+                "name": "Vengeance",
+                "cost": "4",
+                "text": "Choose a Creature that attacked last turn. Discard that Creature.\n"
+            }
+        ],
+        "energize": 6,
+        "subtype": "Elder",
+        "alternate": "Mobis",
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Orothe/MOBIS%20AVENGER.png",
+        "key": 2073,
+        "name": "Mobis, Avenger",
+        "normalized_name": "Mobis_Avenger",
+        "rarity": "P",
+        "regions": [
+            "Orothe"
+        ],
+        "set": "KSPR",
+        "starting": [
+            "Bwill",
+            "Iximin",
+            "Corf"
+        ],
+        "type": "Magi"
+    },
+    {
+        "cost": 2,
+        "effects": [
+            {
+                "name": "Rolling Stone",
+                "text": "If you control another Trulb or another Kybar's Teeth creature, you may play Mountain Trulb at the beginning of your attack step, paying all costs.\n"
+            },
+            {
+                "name": "Gathers No Moss",
+                "text": "Mountain Trulb removes additional energy when attacking equal to the number of Trulbs or Kybars Teeth creatures in play, whichever is greater.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Kybar%27s%20Teeth/MOUNTAIN%20TRULB.png",
+        "key": 1947,
+        "name": "Mountain Trulb",
+        "normalized_name": "Mountain_Trulb",
+        "rarity": "P",
+        "regions": [
+            "Kybar's Teeth"
+        ],
+        "set": "KSPR",
+        "type": "Creature"
+    },
+    {
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Nar/NARAN%20LIGHTS.png",
+        "key": 1948,
+        "name": "Naran Lights",
+        "normalized_name": "Naran_Lights",
+        "rarity": "F",
+        "regions": [
+            "Nar"
+        ],
+        "set": "KSPR",
+        "text": "Reveal the top three cards of your deck. You may choose one revealed Arctic Creature and play it with five energy, ignoring all costs and place the remaining cards at the bottom of your deck in any order. If you did not reveal a creature this way, place the cards into your hand instead.\n",
+        "type": "Spell"
+    },
+    {
+        "cost": 7,
+        "powers": [
+            {
+                "cost": 2,
+                "name": "Enhance",
+                "text": "Choose a Creature type. Add one energy to Omni Construct for each Creature of that type in play.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Universal/OMNI%20CONSTRUCT.png",
+        "key": 1949,
+        "name": "Omni Construct",
+        "normalized_name": "Omni_Construct",
+        "rarity": "P",
+        "regions": [
+            "Universal"
+        ],
+        "set": "KSPR",
+        "type": "Creature"
+    },
+    {
+        "cost": 11,
+        "powers": [
+            {
+                "name": "Invoke",
+                "cost": "2",
+                "text": "Discard an Orothe Spell from your hand. Play an Orothe Creatyre from your hand, reducing its cost by the cost of the Spell you discarded, to a minimum of one.\n"
+            }
+        ],
+        "energize": 5,
+        "subtype": "Tracker",
+        "alternate": "O'qua",
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Orothe/O%27QUA%2C%20TRACKER.png",
+        "key": 1950,
+        "name": "O'qua, Tracker",
+        "normalized_name": "oqua_tracker",
+        "rarity": "P",
+        "regions": [
+            "Orothe"
+        ],
+        "set": "KSPR",
+        "starting": [
+            "Ripcurl",
+            "Undertow",
+            "Sporh Charm"
+        ],
+        "type": "Magi"
+    },
+    {
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Core/Possession.png",
+        "key": 1952,
+        "name": "Possession",
+        "normalized_name": "Possession",
+        "rarity": "P",
+        "regions": [
+            "Core"
+        ],
+        "set": "KSPR",
+        "text": "Defeat your current Magi. You may keep your current Relics, Creatures, and Spells in play. Reveal your next magi with his or her starting energy. You may get the new Magi’s starting cards as normal. That Magi becomes a Shadow Magi of its original region. All rules for Shadow Magi apply to the new Magi. Only Core magi can play Possession.\n",
+        "type": "Spell"
+    },
+    {
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Universal/Showdown.png",
+        "key": 1957,
+        "name": "Showdown",
+        "normalized_name": "Showdown",
+        "rarity": "P",
+        "regions": [
+            "Universal"
+        ],
+        "set": "KSPR",
+        "text": "Attach Showdown to an opposing Magi. As a Creature attacks, add one energy to it. At the end of each player's Attack Step, if that player did not attack, discard Showdown and remove six energy from that player's Magi. This energy loss cannot be prevented.\n",
+        "type": "Spell"
+    },
+    {
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Kybar%27s%20Teeth/Top%20Heavy.png",
+        "key": 1961,
+        "name": "Top Heavy",
+        "normalized_name": "Top_Heavy",
+        "rarity": "P",
+        "regions": [
+            "Kybar's Teeth"
+        ],
+        "set": "KSPR",
+        "text": "Choose a Creature in play. Add five energy to that creature and attach Top Heavy to it. When a creature with Top Heavy attached gains or loses energy, discard that creature from play.\n",
+        "type": "Spell"
+    },
+    {
+        "cost": 4,
+        "energize": 1,
+        "effects": [
+            {
+                "name": "Autumn Leaves",
+                "text": "Your creatures energize on your draw step instead of your energize step.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Naroom/V%27RYLE.png",
+        "key": 1964,
+        "name": "V'ryle",
+        "normalized_name": "Vryle",
+        "rarity": "P",
+        "regions": [
+            "Naroom"
+        ],
+        "set": "KSPR",
+        "type": "Creature"
     }
 ]
