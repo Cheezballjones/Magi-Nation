@@ -23,95 +23,107 @@
         "type": "Creature"
     },
     {
-    "cost": 12,
-    "effects": [
-        {
-            "name": "Dream Block",
-            "text": "Players may not use Powers on Creatures.\n"
-        }
-    ],
-    "energize": 5,
-    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Arderial/SORREAH%2C%20WARRIOR%20(Limited).png",
-    "key": 1341,
-    "name": "Sorreah, Warrior",
-    "normalized_name": "Sorreah_Warrior",
-    "rarity": "P",
-    "regions": ["Arderial"],
-    "set": "PR",
-    "starting": ["[Two different Arderial Spells]"],
-    "type": "Magi"
+        "cost": 12,
+        "effects": [
+            {
+                "name": "Dream Block",
+                "text": "Players may not use Powers on Creatures.\n"
+            }
+        ],
+        "energize": 5,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Arderial/SORREAH%2C%20WARRIOR%20(Limited).png",
+        "key": 1341,
+        "name": "Sorreah, Warrior",
+        "normalized_name": "Sorreah_Warrior",
+        "rarity": "P",
+        "regions": [
+            "Arderial"
+        ],
+        "set": "PR",
+        "starting": [
+            "[Two different Arderial Spells]"
+        ],
+        "type": "Magi"
     },
     {
-    "cost": 7,
-    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Nar/TUNDRA%20HYREN%20(Limited).png",
-    "key": 1343,
-    "name": "Tundra Hyren",
-    "normalized_name": "Tundra_Hyren",
-    "powers": [
-        {
-            "cost": 3,
-            "name": "Freeze",
-            "text": "Choose an opposing Magi. That Magi's Creatures are Frozen until the beginning of your next turn. Powers of Frozen cards cost one extra energy to use.\n"
-        }
-    ],
-    "rarity": "P",
-    "regions": ["Nar"],
-    "set": "PR",
-    "type": "Creature"
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Nar/TUNDRA%20HYREN%20(Limited).png",
+        "key": 1343,
+        "name": "Tundra Hyren",
+        "normalized_name": "Tundra_Hyren",
+        "powers": [
+            {
+                "cost": 3,
+                "name": "Freeze",
+                "text": "Choose an opposing Magi. That Magi's Creatures are Frozen until the beginning of your next turn. Powers of Frozen cards cost one extra energy to use.\n"
+            }
+        ],
+        "rarity": "P",
+        "regions": [
+            "Nar"
+        ],
+        "set": "PR",
+        "type": "Creature"
     },
     {
-    "cost": 7,
-    "effects": [
-        {
-            "name": "Pierce",
-            "text": "As Cactus Hyren attacks a Creature with six or more energy,\nremove three energy from that Creature.\n"
-        }
-    ],
-    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/d%27Resh/CACTUS%20HYREN.png",
-    "key": 1567,
-    "name": "Cactus Hyren",
-    "normalized_name": "Cactus_Hyren",
-    "rarity": "P",
-    "regions": ["d'Resh"],
-    "set": "PR",
-    "type": "Creature"
+        "cost": 7,
+        "effects": [
+            {
+                "name": "Pierce",
+                "text": "As Cactus Hyren attacks a Creature with six or more energy,\nremove three energy from that Creature.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/d%27Resh/CACTUS%20HYREN.png",
+        "key": 1567,
+        "name": "Cactus Hyren",
+        "normalized_name": "Cactus_Hyren",
+        "rarity": "P",
+        "regions": [
+            "d'Resh"
+        ],
+        "set": "PR",
+        "type": "Creature"
     },
     {
-    "cost": 7,
-    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Paradwyn/CANOPY%20HYREN%20(Limited).png",
-    "key": 1338,
-    "name": "Canopy Hyren",
-    "normalized_name": "Canopy_Hyren",
-    "powers": [
-        {
-            "cost": 3,
-            "name": "Fear",
-            "text": "Remove two energy from each Stalked Creature.\n"
-        }
-    ],
-    "rarity": "P",
-    "regions": [
-        "Paradwyn"
-    ],
-    "set": "PR",
-    "type": "Creature"
-},
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Paradwyn/CANOPY%20HYREN%20(Limited).png",
+        "key": 1338,
+        "name": "Canopy Hyren",
+        "normalized_name": "Canopy_Hyren",
+        "powers": [
+            {
+                "cost": 3,
+                "name": "Fear",
+                "text": "Remove two energy from each Stalked Creature.\n"
+            }
+        ],
+        "rarity": "P",
+        "regions": [
+            "Paradwyn"
+        ],
+        "set": "PR",
+        "type": "Creature"
+    },
     {
-  "artist": "Holmberg",
-  "cost": 0,
-  "effects": [{
-    "name": "Purity",
-    "text": "At the end of your turn, if all Spells in your discard pile are Bograth, discard all of your non-Bograth cards from play and choose an opposing Creature. If that Creature has more energy than your Magi's energize, move three energy from that Creature to your Magi."
-  }],
-  "key": 1337,
-  "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Bograth/Blygt's%20Ring%20(Limited).png",
-  "name": "Blygt's Ring",
-  "normalized_name": "Blygts_Ring",
-  "rarity": "P",
-  "regions": ["Bograth"],
-  "set": "PR",
-  "starting_magi": "Blygt",
-  "type": "Relic"
+        "artist": "Holmberg",
+        "cost": 0,
+        "effects": [
+            {
+                "name": "Purity",
+                "text": "At the end of your turn, if all Spells in your discard pile are Bograth, discard all of your non-Bograth cards from play and choose an opposing Creature. If that Creature has more energy than your Magi's energize, move three energy from that Creature to your Magi."
+            }
+        ],
+        "key": 1337,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Bograth/Blygt's%20Ring%20(Limited).png",
+        "name": "Blygt's Ring",
+        "normalized_name": "Blygts_Ring",
+        "rarity": "P",
+        "regions": [
+            "Bograth"
+        ],
+        "set": "PR",
+        "starting_magi": "Blygt",
+        "type": "Relic"
     },
     {
         "cost": 1,
@@ -133,91 +145,107 @@
         "type": "Creature"
     },
     {
-    "cost": 2,
-    "key": 1342,
-    "image": "https://github.com/Cheezballjones/Magi-Nation/blob/main/card_images/Universal/Traitor's%20Reach%20(Limited).png?raw=true",
-    "name": "Traitor's Reach",
-    "normalized_name": "Traitors_Reach",
-    "rarity": "P",
-    "regions": ["Universal"],
-    "set": "PR",
-    "text": "Choose a Creature and a Magi controlled by the same player. If the chosen Creature does not share a region with the chosen Magi, discard that Creature from play and remove two energy from that Magi.",
-    "type": "Spell"
-    },    
-    {
-    "cost": 3,
-    "key": 1716,
-    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Core/JINGJACK.png",
-    "name": "Jingjack",
-    "normalized_name": "Jingjack",
-    "powers": [{
-        "cost": 1,
-        "name": "Spring Forth",
-        "text": "Add three energy to Jingjack. If Jingjack is a relic, it becomes a creature. At the end of the turn, discard Jingjack from play."
-    }],
-    "effects": [{
-        "name": "Spring Out",
-        "text": "When your magi is attacked directly, you may play Jingjack from your hand, paying all costs. Jingjack replaces your magi in the attack."
-    }, {
-        "name": "Spring Back",
-        "text": "If Jingjack is defeated in an attack, it becomes a relic instead of being discarded."
-    }],
-    "rarity": "F",
-    "regions": ["Core"],
-    "set": "PR",
-    "type": "Creature"
+        "cost": 2,
+        "key": 1342,
+        "image": "https://github.com/Cheezballjones/Magi-Nation/blob/main/card_images/Universal/Traitor's%20Reach%20(Limited).png?raw=true",
+        "name": "Traitor's Reach",
+        "normalized_name": "Traitors_Reach",
+        "rarity": "P",
+        "regions": [
+            "Universal"
+        ],
+        "set": "PR",
+        "text": "Choose a Creature and a Magi controlled by the same player. If the chosen Creature does not share a region with the chosen Magi, discard that Creature from play and remove two energy from that Magi.",
+        "type": "Spell"
     },
     {
-    "alt_play": "d'Resh",
-    "cost": 7,
-    "effects": [{
-        "name": "Dream Inhibitor",
-        "text": "Powers on opposing Core Creatures cost two extra energy."
-    }],
-    "key": 1344,
-    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Core/TWILIGHT%20MOWAT%20(Limited).png",
-    "name": "Twilight Mowat",
-    "normalized_name": "Twilight_Mowat",
-    "powers": [{
-        "cost": 1,
-        "name": "Dark Sands",
-        "text": "Choose an opposing Creature. That Creature is Core until the beginning of your next turn."
-    }],
-    "rarity": "P",
-    "regions": ["Core", "d'Resh"],
-    "set": "PR",
-    "text": "Only Core and d'Resh Magi may play Twilight Mowat.",
-    "type": "Creature"
+        "cost": 3,
+        "key": 1716,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Core/JINGJACK.png",
+        "name": "Jingjack",
+        "normalized_name": "Jingjack",
+        "powers": [
+            {
+                "cost": 1,
+                "name": "Spring Forth",
+                "text": "Add three energy to Jingjack. If Jingjack is a relic, it becomes a creature. At the end of the turn, discard Jingjack from play."
+            }
+        ],
+        "effects": [
+            {
+                "name": "Spring Out",
+                "text": "When your magi is attacked directly, you may play Jingjack from your hand, paying all costs. Jingjack replaces your magi in the attack."
+            },
+            {
+                "name": "Spring Back",
+                "text": "If Jingjack is defeated in an attack, it becomes a relic instead of being discarded."
+            }
+        ],
+        "rarity": "F",
+        "regions": [
+            "Core"
+        ],
+        "set": "PR",
+        "type": "Creature"
     },
     {
-    "cost": 12,
-    "effects": [
-        {
-            "name": "Treacherous Bargain",
-            "text": "When you play a Spell, add one energy to Shadow Empress unless any opponent removes one energy from their Magi or one of their Creatures in play.\n"
-        },
-        {
-            "name": "Mastery of Shadows",
-            "text": "Shadow Empress may play Spells as though she were Agram and your Spells in play treat her as though she were Agram.\n"
-        }
-    ],
-    "energize": 6,
-    "image": "https://github.com/Cheezballjones/Magi-Nation/blob/main/card_images/Core/SHADOW%20EMPRESS.png?raw=true",
-    "text": "The first time each turn that you would reveal Shadow Empress, if she is not your last Magi, instead of retrieving her starting cards, place her face down on the bottom of your Magi stack and reveal your next Magi instead. If that Magi is Hrada or Agram, add 'Secrets of the Book' or one 'Shadow Geyser' to his starting cards.",
-    "key": 1956,
-    "name": "Shadow Empress",
-    "normalized_name": "Shadow_Empress",
-    "rarity": "P",
-    "regions": [
-        "Core"
-    ],
-    "set": "PR",
-    "starting": [
-        "Nightmare Construct",
-        "Traitor's Reach"
-    ],
-    "subtype": "Naroom Shadow",
-    "type": "Magi"
+        "alt_play": "d'Resh",
+        "cost": 7,
+        "effects": [
+            {
+                "name": "Dream Inhibitor",
+                "text": "Powers on opposing Core Creatures cost two extra energy."
+            }
+        ],
+        "key": 1344,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Core/TWILIGHT%20MOWAT%20(Limited).png",
+        "name": "Twilight Mowat",
+        "normalized_name": "Twilight_Mowat",
+        "powers": [
+            {
+                "cost": 1,
+                "name": "Dark Sands",
+                "text": "Choose an opposing Creature. That Creature is Core until the beginning of your next turn."
+            }
+        ],
+        "rarity": "P",
+        "regions": [
+            "Core",
+            "d'Resh"
+        ],
+        "set": "PR",
+        "text": "Only Core and d'Resh Magi may play Twilight Mowat.",
+        "type": "Creature"
+    },
+    {
+        "cost": 12,
+        "effects": [
+            {
+                "name": "Treacherous Bargain",
+                "text": "When you play a Spell, add one energy to Shadow Empress unless any opponent removes one energy from their Magi or one of their Creatures in play.\n"
+            },
+            {
+                "name": "Mastery of Shadows",
+                "text": "Shadow Empress may play Spells as though she were Agram and your Spells in play treat her as though she were Agram.\n"
+            }
+        ],
+        "energize": 6,
+        "image": "https://github.com/Cheezballjones/Magi-Nation/blob/main/card_images/Core/SHADOW%20EMPRESS.png?raw=true",
+        "text": "The first time each turn that you would reveal Shadow Empress, if she is not your last Magi, instead of retrieving her starting cards, place her face down on the bottom of your Magi stack and reveal your next Magi instead. If that Magi is Hrada or Agram, add 'Secrets of the Book' or one 'Shadow Geyser' to his starting cards.",
+        "key": 1956,
+        "name": "Shadow Empress",
+        "normalized_name": "Shadow_Empress",
+        "rarity": "P",
+        "regions": [
+            "Core"
+        ],
+        "set": "PR",
+        "starting": [
+            "Nightmare Construct",
+            "Traitor's Reach"
+        ],
+        "subtype": "Naroom Shadow",
+        "type": "Magi"
     },
     {
         "artist": "Werner, Cook, Goodman",
@@ -22092,38 +22120,42 @@
         "type": "Creature"
     },
     {
-    "cost": 7,
-    "effects": [
-        {
-            "name": "Improved Invulnerability",
-            "text": "Granite Hyren loses three less energy in attacks.\n"
-        }
-    ],
-    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Kybar%27s%20Teeth/GRANITE%20HYREN%20(Limited).png",
-    "key": 1346,
-    "name": "Granite Hyren",
-    "normalized_name": "Granite_Hyren",
-    "rarity": "P",
-    "regions": ["Kybar's Teeth"],
-    "set": "PR",
-    "type": "Creature"
+        "cost": 7,
+        "effects": [
+            {
+                "name": "Improved Invulnerability",
+                "text": "Granite Hyren loses three less energy in attacks.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Kybar%27s%20Teeth/GRANITE%20HYREN%20(Limited).png",
+        "key": 1346,
+        "name": "Granite Hyren",
+        "normalized_name": "Granite_Hyren",
+        "rarity": "P",
+        "regions": [
+            "Kybar's Teeth"
+        ],
+        "set": "PR",
+        "type": "Creature"
     },
     {
-    "cost": 7,
-    "effects": [
-        {
-            "name": "Creeping Growth",
-            "text": "After Sludge Hyren attacks, add one energy to it for each Bograth Creature you control.\n"
-        }
-    ],
-    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Bograth/SLUDGE%20HYREN%20(Limited).png",
-    "key": 1339,
-    "name": "Sludge Hyren",
-    "normalized_name": "Sludge_Hyren",
-    "rarity": "P",
-    "regions": ["Bograth"],
-    "set": "UP",
-    "type": "Creature"
+        "cost": 7,
+        "effects": [
+            {
+                "name": "Creeping Growth",
+                "text": "After Sludge Hyren attacks, add one energy to it for each Bograth Creature you control.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Bograth/SLUDGE%20HYREN%20(Limited).png",
+        "key": 1339,
+        "name": "Sludge Hyren",
+        "normalized_name": "Sludge_Hyren",
+        "rarity": "P",
+        "regions": [
+            "Bograth"
+        ],
+        "set": "UP",
+        "type": "Creature"
     },
     {
         "cost": 7,
@@ -36203,5 +36235,304 @@
             "Burrow"
         ],
         "type": "Magi"
+    },
+    {
+        "cost": 4,
+        "powers": [
+            {
+                "name": "Morph",
+                "cost": "1",
+                "text": "Choose any one region. Until the start of your next turn, Braggle is a Creature of the chosen region, instead of Cald.\n"
+            }
+        ],
+        "effects": [
+            {
+                "name": "Mirror Shield",
+                "text": "Braggle loses no energy in attacks involving opposing Creatures of the same region as Braggle.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Cald/BRAGGLE.png",
+        "key": 1935,
+        "name": "Braggle",
+        "normalized_name": "Braggle",
+        "rarity": "P",
+        "regions": [
+            "Cald"
+        ],
+        "set": "KSPR",
+        "type": "Creature"
+    },
+    {
+        "cost": 7,
+        "effects": [
+            {
+                "name": "Pierce",
+                "text": "As Cactus Hyren attacks a Creature with six or more energy,\nremove three energy from that Creature.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/d%27Resh/CACTUS%20HYREN.png",
+        "key": 1937,
+        "name": "Cactus Hyren",
+        "normalized_name": "Cactus_Hyren",
+        "rarity": "P",
+        "regions": [
+            "d'Resh"
+        ],
+        "set": "KSPR",
+        "type": "Creature"
+    },
+    {
+        "cost": 7,
+        "powers": [
+            {
+                "cost": 3,
+                "name": "Fear",
+                "text": "Remove two energy from each Stalked Creature.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Paradwyn/CANOPY%20HYREN%20%28Limited%29.png",
+        "key": 1938,
+        "name": "Canopy Hyren",
+        "normalized_name": "Canopy_Hyren",
+        "rarity": "P",
+        "regions": [
+            "Paradwyn"
+        ],
+        "set": "KSPR",
+        "type": "Creature"
+    },
+    {
+        "cost": 7,
+        "effects": [
+            {
+                "name": "Improved Invulnerability",
+                "text": "Granite Hyren loses three less energy in attacks.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Kybar%27s%20Teeth/GRANITE%20HYREN%20%28Limited%29.png",
+        "key": 1943,
+        "name": "Granite Hyren",
+        "normalized_name": "Granite_Hyren",
+        "rarity": "P",
+        "regions": [
+            "Kybar's Teeth"
+        ],
+        "set": "KSPR",
+        "type": "Creature"
+    },
+    {
+        "cost": 3,
+        "powers": [
+            {
+                "cost": 1,
+                "name": "Spring Forth",
+                "text": "Add three energy to Jingjack. If Jingjack is a relic, it becomes a creature. At the end of the turn, discard Jingjack from play.\n"
+            }
+        ],
+        "effects": [
+            {
+                "name": "Spring Out",
+                "text": "When your magi is attacked directly, you may play Jingjack from your hand, paying all costs. Jingjack replaces your magi in the attack.\n"
+            },
+            {
+                "name": "Spring Back",
+                "text": "If Jingjack is defeated in an attack, it becomes a relic instead of being discarded.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Core/JINGJACK.png",
+        "key": 1944,
+        "name": "Jingjack",
+        "normalized_name": "Jingjack",
+        "rarity": "F",
+        "regions": [
+            "Core"
+        ],
+        "set": "KSPR",
+        "type": "Creature"
+    },
+    {
+        "cost": 15,
+        "effects": [
+            {
+                "name": "Adapt",
+                "text": "When you reveal League Elder, choose any one region. League Elder is from that region.\n"
+            },
+            {
+                "name": "Prepare",
+                "text": "During your draw step, instead of drawing two cards, draw until you have five cards in your hand.\n"
+            }
+        ],
+        "energize": 5,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Universal/LEAGUE%20ELDER%20%28Limited%29.png",
+        "key": 1946,
+        "name": "League Elder",
+        "normalized_name": "League_Elder",
+        "rarity": "P",
+        "regions": [
+            "Universal"
+        ],
+        "set": "KSPR",
+        "starting": [
+            "[One Creature]"
+        ],
+        "type": "Magi"
+    },
+    {
+        "cost": 12,
+        "effects": [
+            {
+                "name": "Strengthen",
+                "text": "Whenever Ora plays an Arderial Creature, add one energy to that Creature.\n"
+            }
+        ],
+        "energize": 5,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Arderial/ORA.png",
+        "key": 1951,
+        "name": "Ora",
+        "normalized_name": "Ora",
+        "rarity": "P",
+        "regions": [
+            "Arderial"
+        ],
+        "set": "KSPR",
+        "starting": [
+            "Xyx Elder",
+            "Xyx Minor",
+            "Shooting Star"
+        ],
+        "type": "Magi"
+    },
+    {
+        "cost": 0,
+        "powers": [
+            {
+                "name": "Lockdown",
+                "cost": "0",
+                "text": "Name any one Power or Effect on a card in play. Until the end of your next turn, no player may use the named Power or Effect while Rayje's Belt is in play.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Universal/Rayje%27s%20Belt%20%28Limited%29.png",
+        "key": 1953,
+        "name": "Rayje's Belt",
+        "normalized_name": "Rayjes_Belt",
+        "rarity": "P",
+        "regions": [
+            "Universal"
+        ],
+        "set": "KSPR",
+        "type": "Relic"
+    },
+    {
+        "cost": 0,
+        "powers": [
+            {
+                "name": "Pound Pound Pound",
+                "cost": "0",
+                "text": "Choose any one Relic in play. Discard Relic Stalker from player. Discard the chosen Relic from play.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Universal/Relic%20Stalker.png",
+        "key": 1954,
+        "name": "Relic Stalker",
+        "normalized_name": "Relic_Stalker",
+        "rarity": "P",
+        "regions": [
+            "Universal"
+        ],
+        "set": "KSPR",
+        "type": "Relic"
+    },
+    {
+        "cost": 0,
+        "powers": [
+            {
+                "name": "Snuff Out",
+                "cost": "0",
+                "text": "Choose any one Creature in play with only one energy.Discard the chosen Creature from play.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Cald/Rod%20of%20Coals.png",
+        "key": 1955,
+        "name": "Rod of Coals",
+        "normalized_name": "Rod_of_Coals",
+        "rarity": "P",
+        "regions": [
+            "Cald"
+        ],
+        "set": "KSPR",
+        "type": "Relic"
+    },
+    {
+        "cost": 7,
+        "effects": [
+            {
+                "name": "Creeping Growth",
+                "text": "After Sludge Hyren attacks, add one energy to it for each Bograth Creature you control.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Bograth/SLUDGE%20HYREN%20%28Limited%29.png",
+        "key": 1958,
+        "name": "Sludge Hyren",
+        "normalized_name": "Sludge_Hyren",
+        "rarity": "P",
+        "regions": [
+            "Bograth"
+        ],
+        "set": "KSPR",
+        "type": "Creature"
+    },
+    {
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Universal/Traitor%27s%20Reach%20%28Limited%29.png",
+        "key": 1963,
+        "name": "Traitor's Reach",
+        "normalized_name": "Traitors_Reach",
+        "rarity": "P",
+        "regions": [
+            "Universal"
+        ],
+        "set": "KSPR",
+        "text": "Choose a Creature and a Magi controlled by the same player. If the chosen Creature does not share a region with the chosen Magi, discard that Creature from play and remove two energy from that Magi.\n",
+        "type": "Spell"
+    },
+    {
+        "cost": 3,
+        "powers": [
+            {
+                "cost": 3,
+                "name": "Mind Shock",
+                "text": "Choose any one player. The chosen player must discard two cards of their choice from their hand.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Underneath/VULBOR.png",
+        "key": 1965,
+        "name": "Vulbor",
+        "normalized_name": "Vulbor",
+        "rarity": "P",
+        "regions": [
+            "Underneath"
+        ],
+        "set": "KSPR",
+        "type": "Creature"
+    },
+    {
+        "cost": 0,
+        "powers": [
+            {
+                "name": "Warpath",
+                "cost": "0",
+                "text": "Discard Warrior's Boots from play. Immediately play a Creature from your hand. You must still pay all costs for the Creature.\n"
+            }
+        ],
+        "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Universal/Warrior%27s%20Boots%20%28Limited%29.png",
+        "key": 1967,
+        "name": "Warrior's Boots",
+        "normalized_name": "Warriors_Boots",
+        "rarity": "P",
+        "regions": [
+            "Universal"
+        ],
+        "set": "KSPR",
+        "type": "Relic"
     }
 ]
