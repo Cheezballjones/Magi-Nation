@@ -23,6 +23,26 @@
         "type": "Creature"
     },
     {
+    "cost": 7,
+    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Paradwyn/CANOPY%20HYREN%20(Limited).png",
+    "key": 1338,
+    "name": "Canopy Hyren",
+    "normalized_name": "Canopy_Hyren",
+    "powers": [
+        {
+            "cost": 3,
+            "name": "Fear",
+            "text": "Remove two energy from each Stalked Creature.\n"
+        }
+    ],
+    "rarity": "P",
+    "regions": [
+        "Paradwyn"
+    ],
+    "set": "PR",
+    "type": "Creature"
+},
+    {
   "artist": "Holmberg",
   "cost": 0,
   "effects": [{
@@ -22016,6 +22036,40 @@
         "set": "TR",
         "text": "Naroom Shadow Magi may play Snag Arboll.",
         "type": "Creature"
+    },
+    {
+    "cost": 7,
+    "effects": [
+        {
+            "name": "Improved Invulnerability",
+            "text": "Granite Hyren loses three less energy in attacks.\n"
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Kybar's%20Teeth/GRANITE%20HYREN%20(Limited).png",
+    "key": 1346,
+    "name": "Granite Hyren",
+    "normalized_name": "Granite_Hyren",
+    "rarity": "P",
+    "regions": ["Kybar's Teeth"],
+    "set": "PR",
+    "type": "Creature"
+    },
+    {
+    "cost": 7,
+    "effects": [
+        {
+            "name": "Creeping Growth",
+            "text": "After Sludge Hyren attacks, add one energy to it for each Bograth Creature you control.\n"
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/Cheezballjones/Magi-Nation/refs/heads/main/card_images/Bograth/SLUDGE%20HYREN%20(Limited).png",
+    "key": 1339,
+    "name": "Sludge Hyren",
+    "normalized_name": "Sludge_Hyren",
+    "rarity": "P",
+    "regions": ["Bograth"],
+    "set": "UP",
+    "type": "Creature"
     },
     {
         "cost": 7,
